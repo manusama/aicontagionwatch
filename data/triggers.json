@@ -1,0 +1,56 @@
+[
+ {
+  "signal": "Big-tech capex and cash flow",
+  "why": "No hyperscaler has cut 2027 plans, but the risk has shifted to politics: after the Democratic sweep, UBS says ~30% of expected 2028 US data-centre additions could be at risk from construction pauses, and Microsoft is reportedly tightening oversight of neocloud projects. Spending is still debt-funded, with free cash flow negative at three of the four biggest spenders.",
+  "status": "Policy risk rising",
+  "state": "Stress"
+ },
+ {
+  "signal": "Chip stocks",
+  "why": "Chips gained 8% for the week but fell 3.4% on Fri as AMD (−8.75%) and Broadcom (−4.76%) gave back gains. Nvidia fell 12.75% for the week and is ~32% off its October record after Jensen Huang resigned. Over the weekend the FT reported Huang is weighing a comeback, while Treasury Secretary Bessent questioned whether Nvidia complied with China export controls and urged an outside CEO. Nvidia reports Tue 17 Nov US time (Wed ~8:20am Melbourne), its first results without Huang.",
+  "status": "Results Wed 8:20am AEDT",
+  "state": "Stress"
+ },
+ {
+  "signal": "Fed: December hike",
+  "why": "A 25 bp hike on 9 Dec is fully priced, with ~10% odds of 50 bp. October CPI rose 0.4% (core 0.3%) and producer prices were up 6.5% on a year ago. Waller says 50 bp should be considered.",
+  "status": "Hike fully priced",
+  "state": "Stress"
+ },
+ {
+  "signal": "Oracle and CoreWeave credit",
+  "why": "CoreWeave rose 14.5% for the week on its results, but fell 6.1% on Fri amid reports it is seeking at least US$4bn more in equipment-backed loans; its quarterly interest bill exceeded operating income. No new default-protection levels published since CoreWeave 1,268 bp (5 Nov) and Oracle 296 bp (2 Nov).",
+  "status": "Eased, unconfirmed",
+  "state": "Stress"
+ },
+ {
+  "signal": "AI lab IPOs and funding",
+  "why": "Anthropic prices its IPO on 18 Nov (US time) at US$70–78 a share and starts trading on Nasdaq as ANT on 19 Nov, raising about US$61bn plus US$26bn from Google, Nvidia, AMD, Broadcom, Micron, Microsoft and TSMC. That values it at roughly US$1tn (up to ~US$1.4tn fully diluted). Books are reportedly ~6x covered. OpenAI had US$11bn wired on 6 Nov at US$1.25tn. (Disclosure: Claude is made by Anthropic.)",
+  "status": "Anthropic prices 18 Nov",
+  "state": "Watch"
+ },
+ {
+  "signal": "10-yr Treasury yield",
+  "why": "Up to 5.15% on Fri, about 30 bp higher on the week, with the 2-yr at 4.88% and the 30-yr at 5.47%. Yields are rising, not falling: no flight to safety, but higher borrowing costs for debt-funded AI builders.",
+  "status": "5.15%",
+  "state": "Stress"
+ },
+ {
+  "signal": "Oil and the Iran war",
+  "why": "WTI ended the week at US$88.56, down about 2%, even after Thursday’s jump on renewed Iran escalation (Houthi strikes on Saudi energy sites, tankers hit in Hormuz). Inflation risk from oil is still live.",
+  "status": "US$89 WTI",
+  "state": "Watch"
+ },
+ {
+  "signal": "Private credit and non-banks",
+  "why": "High-yield spread tightened to 320 bp on 12 Nov (from 330 bp); investment grade 89 bp. Broad credit is calm. IMF: US bank loans to non-bank lenders rose 18% in 2026.",
+  "status": "Contained",
+  "state": "Watch"
+ },
+ {
+  "signal": "Market breadth",
+  "why": "A good week (S&P +2.5%, Dow +2.1%, small caps +1.3%). Friday showed money leaving tech for other sectors rather than leaving stocks: 314 of 500 S&P stocks rose and equal-weight gained 0.2% while the Nasdaq fell 0.9%.",
+  "status": "Broadening",
+  "state": "Watch"
+ }
+]

@@ -1,0 +1,86 @@
+[
+ {
+  "id": "orcl",
+  "signal": "Oracle 5-yr default protection",
+  "group": "Weak-link credit",
+  "weight": 0.175,
+  "calm": 100,
+  "breach": 400,
+  "now": 296,
+  "unit": "bp",
+  "now_display": "296 bp (2 Nov; no newer level)",
+  "thresholds": "100 → 400 bp"
+ },
+ {
+  "id": "crwv",
+  "signal": "CoreWeave 5-yr default protection",
+  "group": "Weak-link credit",
+  "weight": 0.175,
+  "calm": 500,
+  "breach": 1500,
+  "now": 1267.9,
+  "unit": "bp",
+  "now_display": "1,268 bp (5 Nov; no newer level, results since eased fears)",
+  "thresholds": "500 → 1,500 bp"
+ },
+ {
+  "id": "capex",
+  "signal": "Hyperscaler capex growth, next year",
+  "group": "Capex momentum",
+  "weight": 0.2,
+  "calm": 50,
+  "breach": 0,
+  "now": 35,
+  "unit": "%",
+  "now_display": "+35% (pre-results consensus; no one cut 2027, but data-centre policy risk rising)",
+  "thresholds": "+50% → flat or cut"
+ },
+ {
+  "id": "ust10",
+  "signal": "US 10-yr Treasury yield",
+  "group": "Rates",
+  "weight": 0.1,
+  "calm": 4.0,
+  "breach": 5.5,
+  "now": 5.15,
+  "unit": "%",
+  "now_display": "5.15%",
+  "thresholds": "4.0% → 5.5%"
+ },
+ {
+  "id": "fed",
+  "signal": "Fed hikes priced, next 9 months",
+  "group": "Rates",
+  "weight": 0.1,
+  "calm": 0,
+  "breach": 3,
+  "now": 2,
+  "unit": "hikes",
+  "now_display": "~2 (Dec fully priced, ~10% odds of 50 bp)",
+  "thresholds": "0 → 3 hikes"
+ },
+ {
+  "id": "vix",
+  "signal": "VIX volatility index",
+  "group": "Market stress",
+  "weight": 0.1,
+  "calm": 15,
+  "breach": 30,
+  "now": 19.3,
+  "unit": "",
+  "now_display": "19.30",
+  "thresholds": "15 → 30"
+ },
+ {
+  "id": "openai",
+  "signal": "OpenAI funding health (judgement)",
+  "group": "Hub funding",
+  "weight": 0.15,
+  "calm": 0,
+  "breach": 1,
+  "now": 0.5,
+  "unit": "score",
+  "now_display": "US$11bn wired 6 Nov at US$1.25tn; up to US$9bn more",
+  "thresholds": "Funded → delayed or renegotiated"
+ }
+]

@@ -1,0 +1,17 @@
+[
+{"scenario":"s1","bucket":"AI core (chips, hyperscalers)","low":-40,"high":-25},
+{"scenario":"s1","bucket":"Watchlist A — quality, AI-linked","low":-25,"high":-10},
+{"scenario":"s1","bucket":"Essential services & healthcare","low":-10,"high":0},
+{"scenario":"s1","bucket":"Gold producers & royalties","low":-5,"high":15},
+{"scenario":"s1","bucket":"Diversified & base-metal miners","low":-20,"high":-5},
+{"scenario":"s2","bucket":"AI core (chips, hyperscalers)","low":-60,"high":-40},
+{"scenario":"s2","bucket":"Watchlist A — quality, AI-linked","low":-40,"high":-20},
+{"scenario":"s2","bucket":"Essential services & healthcare","low":-20,"high":-10},
+{"scenario":"s2","bucket":"Gold producers & royalties","low":-25,"high":5},
+{"scenario":"s2","bucket":"Diversified & base-metal miners","low":-40,"high":-20},
+{"scenario":"s3","bucket":"AI core (chips, hyperscalers)","low":-75,"high":-55},
+{"scenario":"s3","bucket":"Watchlist A — quality, AI-linked","low":-50,"high":-30},
+{"scenario":"s3","bucket":"Essential services & healthcare","low":-30,"high":-15},
+{"scenario":"s3","bucket":"Gold producers & royalties","low":-35,"high":10},
+{"scenario":"s3","bucket":"Diversified & base-metal miners","low":-55,"high":-35}
+]

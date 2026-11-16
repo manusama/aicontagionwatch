@@ -1,0 +1,22 @@
+[
+ {
+  "id": "takeaway",
+  "text": "No new US trading since Friday: stocks had their best week in five, but the pressure has moved to rates, with the 10-yr yield at 5.15% and a December Fed hike fully priced. Nvidia is ~32% off its record after its CEO resigned; over the weekend reports emerged that he may seek to return, and the US Treasury Secretary questioned its export compliance. This week’s tests: Nvidia’s results (Wed ~8:20am Melbourne), Anthropic’s IPO pricing (18 Nov US time) and first trade (19 Nov), and any new Oracle or CoreWeave default-protection readings."
+ },
+ {
+  "id": "imf",
+  "text": "The IMF’s October 2026 Global Financial Stability Report reviewed 14 AI financing deals: about US$300bn of equity and US$650bn of debt, tied to roughly US$1.4tn of future spending commitments flowing back to the investors. It names an AI correction as one of three ‘salient risks’, warning of a ‘triple whammy’: equity falls, debt gets harder to service, and promised revenue fails to arrive."
+ },
+ {
+  "id": "scenario_method",
+  "text": "Drawdown bands are my illustrative assumptions, anchored to the historical episodes below. They are not forecasts. The key lesson from 2008: in a forced-selling phase almost everything falls together, including gold miners. What differs is margin resilience and recovery speed."
+ },
+ {
+  "id": "ethics_method",
+  "text": "Exclusion screen: no company with known direct military or defence-procurement ties (including US DoD cloud contracts or DoD equity/offtake deals), and none of the big platforms you flagged as socially unethical. This is a first pass from public reporting. Supply chains are opaque, so verify with an ethical-investment screen before acting."
+ },
+ {
+  "id": "disclaimer",
+  "text": "Research snapshot as at 16 Nov 2026 Melbourne time (market data to the US close on Fri 13 Nov, plus weekend news), built from public sources. Claude is made by Anthropic, which appears in this data. I’m not a licensed financial adviser and this isn’t a recommendation to buy or sell anything. It’s a framework for your own decisions or a conversation with an adviser."
+ }
+]

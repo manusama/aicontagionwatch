@@ -1,0 +1,80 @@
+[
+ {
+  "flow": "Nvidia → OpenAI",
+  "type": "Equity stake",
+  "amount": "US$30bn",
+  "note": "OpenAI then buys Nvidia-powered compute"
+ },
+ {
+  "flow": "Nvidia → OpenAI Ohio data centre",
+  "type": "Guarantee",
+  "amount": "Up to US$105bn",
+  "note": "Nvidia carries OpenAI’s risk twice: as supplier and as guarantor"
+ },
+ {
+  "flow": "OpenAI → Oracle",
+  "type": "Cloud contract",
+  "amount": "~US$300bn",
+  "note": "About five years; Oracle borrows to build it"
+ },
+ {
+  "flow": "Oracle → Nvidia",
+  "type": "Chip purchases",
+  "amount": "Not disclosed",
+  "note": "Closes the loop back to the start"
+ },
+ {
+  "flow": "OpenAI → all compute providers",
+  "type": "Commitments",
+  "amount": "~US$1.4tn",
+  "note": "Against projected losses of ~US$14bn in 2026"
+ },
+ {
+  "flow": "SoftBank → OpenAI",
+  "type": "Equity",
+  "amount": "US$30bn",
+  "note": "Completed around 1 Oct 2026, funded partly with ~10% high-yield bonds"
+ },
+ {
+  "flow": "Nvidia → Meta",
+  "type": "Equity",
+  "amount": "US$3bn",
+  "note": "Part of Meta’s record US$97.5bn raise (Oct 2026); Meta is a major Nvidia customer"
+ },
+ {
+  "flow": "Banks & Blackstone → Anthropic chip lease",
+  "type": "Debt vehicle",
+  "amount": "US$63bn",
+  "note": "Buys Broadcom gear to lease to Anthropic from 2027; ~US$43.5bn first-lien debt"
+ },
+ {
+  "flow": "Apollo → SpaceX",
+  "type": "Equipment financing",
+  "amount": "~US$40bn",
+  "note": "To buy AI chips; riskiest tranche could yield up to 8.75%"
+ },
+ {
+  "flow": "Private capital → Nvidia customers",
+  "type": "Financing pools",
+  "amount": ">US$500bn",
+  "note": "Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs, KKR (Aug 2026)"
+ },
+ {
+  "flow": "Anthropic → compute and infrastructure",
+  "type": "Commitments",
+  "amount": "~US$895bn",
+  "note": "Disclosed in its amended IPO filing (2 Nov 2026); disclosure: Claude is made by Anthropic"
+ },
+ {
+  "flow": "Nvidia → Nscale West Virginia campus",
+  "type": "Debt guarantee (reported, under consideration)",
+  "amount": "Not disclosed",
+  "note": "Nscale’s IPO filing shows Anthropic contracts of up to ~US$44.6bn but no binding financing yet"
+ },
+ {
+  "flow": "Google, Nvidia, AMD, Broadcom, Micron, Microsoft, TSMC → Anthropic IPO",
+  "type": "Concurrent share purchase",
+  "amount": "US$26bn",
+  "note": "Google and Nvidia ~US$10bn each, AMD US$2.5bn: Anthropic’s chip and cloud suppliers buying in at the IPO price (pricing 18 Nov); disclosure: Claude is made by Anthropic"
+ }
+]

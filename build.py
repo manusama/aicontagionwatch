@@ -249,7 +249,7 @@ a {{ color:inherit; }}
 </div>
 <div class="card">
 <p>Figures are compiled from public reporting, with the source for each listed below, and are refreshed periodically, so they will lag live markets. Statuses, the clock's weights and thresholds, and the scenarios are judgements. Some readings (for example credit default swap levels) are published irregularly, so a tile may show an older date.</p>
-<p>Research and drafting are done with Claude, an AI model made by Anthropic. Anthropic is one of the companies that appears in this data.</p>
+<p>Claude, an AI model, is used to research and generate this dashboard’s data. Claude is owned by Anthropic, one of the key players in the AI financing boom whose risk of economic contagion this site tracks.</p>
 </div>
 </section>
 </main>

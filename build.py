@@ -10,6 +10,7 @@ D = os.path.join(ROOT, 'data')
 L = lambda n: json.load(open(os.path.join(D, n + '.json'), encoding='utf-8'))
 ind, clock, trig, loop, notes = L('indicators'), L('clock'), L('triggers'), L('loop'), L('notes')
 sinfo, scen, hist = L('scenario_info'), L('scenarios'), L('history')
+au = L('australia') if os.path.exists(os.path.join(D, 'australia.json')) else []
 meta = L('meta') if os.path.exists(os.path.join(D, 'meta.json')) else {}
 note = {n['id']: n['text'] for n in notes}
 e = lambda s: html.escape(str(s))
@@ -108,6 +109,20 @@ signs = ''.join(
     f'<li class="sg {t["state"].lower()}"><div class="sg-side"><span class="chip {t["state"].lower()}">{e(t["state"])}</span>'
     f'<span class="sg-status">{e(t["status"])}</span></div>'
     f'<div class="sg-main"><h3>{e(t["signal"])}</h3><p>{e(t["why"])}</p></div></li>' for t in trig)
+
+# ---- Australian exposure
+au_cards = ''.join(
+    f'<article class="au {r["status"].lower()}"><header><h3>{e(r["factor"])}</h3><span class="chip {r["status"].lower()}">{e(r["status"])}</span></header>'
+    f'<p class="au-val">{e(r["display"])}</p>'
+    f'<dl><dt>How it reaches us</dt><dd>{e(r["channel"])}</dd><dt>Where it stands</dt><dd>{e(r["reading"])}</dd>'
+    f'<dt>What to watch</dt><dd>{e(r["watch"])}</dd></dl>'
+    f'<p class="au-meta">{e(r["asof"])}. Next: {e(r["next"])}.</p></article>' for r in au)
+au_sources = ''.join(f'<li><b>{e(r["factor"])}</b>: {e(r["source"])}</li>' for r in au)
+au_section = (f'''<section id="australia">
+<h2>Australian exposure: how it reaches us</h2>
+<p class="intro">Where a US AI bust would show up here, factor by factor. This is separate from the clock, which measures how close the financing loop is to breaking; this shows what a break would mean locally. Official figures come out monthly or quarterly, so each carries its own date.</p>
+<div class="au-grid">{au_cards}</div>
+</section>''') if au else ''
 
 # ---- scenarios
 pct = lambda v: ('+' if v > 0 else '−' if v < 0 else '') + f'{abs(v)}%'
@@ -300,6 +315,15 @@ td.num {{ white-space:nowrap; font-weight:650; }}
 .about p {{ font-family:var(--serif); font-size:16.5px; line-height:1.6; margin:0 0 12px; }}
 .about h3 {{ margin-bottom:10px; }}
 
+.au-grid {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(min(100%,460px),1fr)); gap:16px; }}
+.au {{ background:var(--paper); border:1px solid var(--rule); border-top:3px solid var(--rule); border-radius:0 0 4px 4px; padding:20px 22px; display:flex; flex-direction:column; }}
+.au.stress {{ border-top-color:var(--stress); }} .au.watch {{ border-top-color:var(--watch); }} .au.calm {{ border-top-color:var(--calm); }}
+.au header {{ display:flex; justify-content:space-between; align-items:flex-start; gap:12px; }}
+.au-val {{ font-size:24px; font-weight:700; font-variation-settings:"wdth" 112; letter-spacing:-.015em; line-height:1.2; margin:8px 0 6px; }}
+.au dl {{ margin:0; }}
+.au dt {{ font-size:13px; font-weight:600; color:var(--slate); margin-top:12px; }}
+.au dd {{ margin:3px 0 0; font-family:var(--serif); font-size:16px; line-height:1.55; }}
+.au-meta {{ margin:16px 0 0; padding-top:10px; border-top:1px solid var(--rule); font-size:13px; color:var(--slate); }}
 footer {{ background:var(--navy); color:var(--on-navy-dim); margin-top:72px; padding:40px 0 48px; font-size:13.5px; line-height:1.55; }}
 footer h3 {{ color:#fff; font-size:15px; margin-bottom:12px; }}
 footer ul {{ margin:0; padding-left:18px; columns:2 420px; column-gap:40px; }}
@@ -324,7 +348,7 @@ footer .fine {{ margin:28px 0 0; padding-top:20px; border-top:1px solid rgba(255
 <div class="w">
 <div class="bar">
 <a class="logo" href="#top"><svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="14.5" fill="none" stroke="#fff" stroke-opacity=".5" stroke-width="1.5"/><path d="M16 16 L5.2 9.8 A12.5 12.5 0 0 1 16 3.5 Z" fill="#d8432f"/><path d="M16 17V6M16 16l-7-4" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/></svg>AI Contagion Watch</a>
-<nav class="nav" aria-label="Sections"><a href="#gauges">Gauges</a><a href="#loop">The loop</a><a href="#signs">Warning signs</a><a href="#scenarios">Scenarios</a><a href="#about">About</a></nav>
+<nav class="nav" aria-label="Sections"><a href="#gauges">Gauges</a><a href="#loop">The loop</a><a href="#signs">Warning signs</a><a href="#australia">Australia</a><a href="#scenarios">Scenarios</a><a href="#about">About</a></nav>
 </div>
 <div class="hero" id="top">
 <div class="clock-box">{clock_svg(minutes)}</div>
@@ -365,6 +389,7 @@ footer .fine {{ margin:28px 0 0; padding-top:20px; border-top:1px solid rgba(255
 <ul class="sg-list">{signs}</ul>
 </section>
 
+{au_section}
 <section id="scenarios">
 <h2>If it breaks: how far things could fall</h2>
 <p class="intro">Three illustrative scenarios, anchored to past busts. These are assumptions, not forecasts. In a forced-selling phase almost everything falls together, gold miners included; what differs is how well margins hold and how fast prices recover.</p>
@@ -391,7 +416,7 @@ footer .fine {{ margin:28px 0 0; padding-top:20px; border-top:1px solid rgba(255
 
 <footer><div class="w">
 <h3>Sources for the gauges</h3>
-<ul>{sources}</ul>
+<ul>{sources}{au_sources}</ul>
 <p class="fine">© {datetime.date.today().year} AI Contagion Watch. General information only, not financial advice.</p>
 </div></footer>
 <script>

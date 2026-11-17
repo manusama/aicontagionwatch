@@ -7,9 +7,9 @@
  },
  {
   "signal": "Chip stocks",
-  "why": "The chip index fell 5.3% on Mon and its 2026 gain has shrunk from ~106% in June to ~34%. Nvidia is ~24% down this month after Jensen Huang’s exit; the board is reportedly not discussing his return. Its results, the first under interim CEO Colette Kress, are due Tue after the US close (Wed ~8:20am Melbourne). Options priced a move of about 8% either way.",
-  "status": "Results out Wed ~8:20am",
-  "state": "Stress"
+  "why": "Nvidia’s first results under interim CEO Colette Kress beat on revenue (US$115.8bn, +103%) and guided Q4 to ~US$130bn, about US$5bn above forecasts, though margins are guided lower and China is excluded. Shares rose up to ~4% after hours. Demand from AI builders is still growing; the question is whether Wednesday’s trading lifts the wider sell-off. The chip index fell 5.3% on Monday and its 2026 gain has shrunk from ~106% in June to ~34%.",
+  "status": "Nvidia beat",
+  "state": "Watch"
  },
  {
   "signal": "Fed: December hike",

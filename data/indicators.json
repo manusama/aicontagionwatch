@@ -36,12 +36,12 @@
   "id": "nvda",
   "group": "Equities",
   "label": "Nvidia after CEO exit",
-  "display": "US$156.14",
+  "display": "Beat: US$115.8bn",
   "value": 156.14,
-  "change": "−4.12% on Mon and about −1.7% on Tue, ~24% down this month. The board is reportedly not discussing a Huang return despite President Trump backing it; Mizuho and UBS cut targets. Results Tue after the close (Wed ~8:20am Melbourne)",
-  "status": "Stress",
-  "asof": "Close 16 Nov 2026",
-  "source": "CappNotes 16 Nov; Nexus 17 Nov; Reuters via MarketScreener 17 Nov; Kiplinger live 17 Nov"
+  "change": "Q3 revenue US$115.8bn (+103% y/y) beat the ~US$109bn forecast; data-centre US$107.6bn. Q4 guidance US$130bn ±3% vs ~US$125bn expected, excluding China; gross margin guided down to 71–72%. Shares rose as much as ~4% after hours to about US$160, from ~US$156 before the release. First results under interim CEO Colette Kress; Huang says he is open to returning",
+  "status": "Watch",
+  "asof": "After hours 17 Nov 2026",
+  "source": "Nvidia results 17 Nov (via StockTitan); TradingKey 17 Nov; Investing.com 17 Nov; Reuters via MarketScreener 17 Nov"
  },
  {
   "id": "amd",

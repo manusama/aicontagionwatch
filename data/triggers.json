@@ -1,44 +1,44 @@
 [
  {
   "signal": "Big-tech capex and cash flow",
-  "why": "No hyperscaler has cut 2027 plans, but the risk has shifted to politics: after the Democratic sweep, UBS says ~30% of expected 2028 US data-centre additions could be at risk from construction pauses, and Microsoft is reportedly tightening oversight of neocloud projects. Spending is still debt-funded, with free cash flow negative at three of the four biggest spenders.",
+  "why": "No hyperscaler has cut 2027 plans, but the risk has shifted to politics: after the Democratic sweep, UBS says ~30% of expected 2028 US data-centre additions could be at risk from construction pauses, and Microsoft is reportedly tightening oversight of neocloud projects. Spending is still debt-funded, with free cash flow negative at three of the four biggest spenders. New on Tue: momentum for a US plan to block imports of Chinese data-centre equipment, which Amazon, Alphabet and Meta oppose.",
   "status": "Policy risk rising",
   "state": "Stress"
  },
  {
   "signal": "Chip stocks",
-  "why": "Chips gained 8% for the week but fell 3.4% on Fri as AMD (−8.75%) and Broadcom (−4.76%) gave back gains. Nvidia fell 12.75% for the week and is ~32% off its October record after Jensen Huang resigned. Over the weekend the FT reported Huang is weighing a comeback, while Treasury Secretary Bessent questioned whether Nvidia complied with China export controls and urged an outside CEO. Nvidia reports Tue 17 Nov US time (Wed ~8:20am Melbourne), its first results without Huang.",
-  "status": "Results Wed 8:20am AEDT",
+  "why": "The chip index fell 5.3% on Mon and its 2026 gain has shrunk from ~106% in June to ~34%. Nvidia is ~24% down this month after Jensen Huang’s exit; the board is reportedly not discussing his return. Its results, the first under interim CEO Colette Kress, are due Tue after the US close (Wed ~8:20am Melbourne). Options priced a move of about 8% either way.",
+  "status": "Results out Wed ~8:20am",
   "state": "Stress"
  },
  {
   "signal": "Fed: December hike",
-  "why": "A 25 bp hike on 9 Dec is fully priced, with ~10% odds of 50 bp. October CPI rose 0.4% (core 0.3%) and producer prices were up 6.5% on a year ago. Waller says 50 bp should be considered.",
-  "status": "Hike fully priced",
+  "why": "A 25 bp hike on 9 Dec is ~95% priced, with at least three hikes priced through 2027. Officials increasingly cite stubborn inflation; Chair Warsh says AI will have a ‘significant impact’ on the economy. October minutes due Wed.",
+  "status": "~95% priced",
   "state": "Stress"
  },
  {
   "signal": "Oracle and CoreWeave credit",
-  "why": "CoreWeave rose 14.5% for the week on its results, but fell 6.1% on Fri amid reports it is seeking at least US$4bn more in equipment-backed loans; its quarterly interest bill exceeded operating income. No new default-protection levels published since CoreWeave 1,268 bp (5 Nov) and Oracle 296 bp (2 Nov).",
-  "status": "Eased, unconfirmed",
+  "why": "Oracle −5% and CoreWeave −6% on Mon. Oracle is ~34% down in 2026, has ~US$108bn of debt and faces a bondholder lawsuit over borrowing disclosures; its default protection is reported near 300 bp. No newer CoreWeave level since 1,268 bp (5 Nov).",
+  "status": "Shares falling again",
   "state": "Stress"
  },
  {
   "signal": "AI lab IPOs and funding",
-  "why": "Anthropic prices its IPO on 18 Nov (US time) at US$70–78 a share and starts trading on Nasdaq as ANT on 19 Nov, raising about US$61bn plus US$26bn from Google, Nvidia, AMD, Broadcom, Micron, Microsoft and TSMC. That values it at roughly US$1tn (up to ~US$1.4tn fully diluted). Books are reportedly ~6x covered. OpenAI had US$11bn wired on 6 Nov at US$1.25tn. (Disclosure: Claude is made by Anthropic.)",
-  "status": "Anthropic prices 18 Nov",
+  "why": "Anthropic prices its IPO on Wed 18 Nov (US time), aiming to raise up to ~US$80bn at close to a US$1.5tn valuation, and starts trading on Nasdaq on Thu as ANT. Its reception, in a falling market, is a direct test of appetite for the AI loop. (Disclosure: Claude is made by Anthropic.)",
+  "status": "Prices Wed (US time)",
   "state": "Watch"
  },
  {
   "signal": "10-yr Treasury yield",
-  "why": "Up to 5.15% on Fri, about 30 bp higher on the week, with the 2-yr at 4.88% and the 30-yr at 5.47%. Yields are rising, not falling: no flight to safety, but higher borrowing costs for debt-funded AI builders.",
-  "status": "5.15%",
+  "why": "Eased to 5.12% on Mon and ~5.09% on Tue as investors bought bonds during the sell-off: a small flight-to-safety signal, but yields are still near their highest since 2002.",
+  "status": "5.12%",
   "state": "Stress"
  },
  {
   "signal": "Oil and the Iran war",
-  "why": "WTI ended the week at US$88.56, down about 2%, even after Thursday’s jump on renewed Iran escalation (Houthi strikes on Saudi energy sites, tankers hit in Hormuz). Inflation risk from oil is still live.",
-  "status": "US$89 WTI",
+  "why": "WTI fell 3.2% to US$85.72 on Mon as Hormuz flows recovered, although Iran reported at least four tankers hit by mines. Lower oil eases the inflation pressure behind Fed hikes.",
+  "status": "US$86 WTI",
   "state": "Watch"
  },
  {
@@ -49,8 +49,8 @@
  },
  {
   "signal": "Market breadth",
-  "why": "A good week (S&P +2.5%, Dow +2.1%, small caps +1.3%). Friday showed money leaving tech for other sectors rather than leaving stocks: 314 of 500 S&P stocks rose and equal-weight gained 0.2% while the Nasdaq fell 0.9%.",
-  "status": "Broadening",
-  "state": "Watch"
+  "why": "This is no longer just tech: on Mon 355 of 500 S&P stocks fell, the equal-weight index fell 1.0% and small caps 1.7%. On Tue NYSE decliners outnumbered advancers 3.25 to 1, with software, airlines and banks lagging. Broad selling is one of the ‘bursting’ signals.",
+  "status": "Selling broadening",
+  "state": "Stress"
  }
 ]

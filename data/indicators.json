@@ -3,67 +3,67 @@
   "id": "spx",
   "group": "Equities",
   "label": "S&P 500",
-  "display": "7,562",
-  "value": 7561.67,
-  "change": "−0.40% on Fri 13 Nov but +2.51% for the week, its first weekly gain in five. Breadth was better than the index: 314 of 500 rose, equal-weight +0.2%, Dow +0.10%. Money moved out of tech into everything else",
-  "status": "Watch",
-  "asof": "Close 13 Nov 2026",
-  "source": "Yahoo Finance live 13 Nov; CappNotes Closing Look 13 Nov; TheStreet 13 Nov"
+  "display": "7,327",
+  "value": 7326.6,
+  "change": "−1.21% on Tue 17 Nov after −1.92% on Mon: a third and fourth straight loss, down about 3.1% in two days",
+  "status": "Stress",
+  "asof": "Close 17 Nov 2026",
+  "source": "Reuters via MarketScreener 17 Nov; CappNotes 16 Nov; Nexus morning note 17 Nov"
  },
  {
   "id": "ndx",
   "group": "Equities",
   "label": "Nasdaq Composite",
-  "display": "25,136",
-  "value": 25136.27,
-  "change": "−0.91% on Fri (Nasdaq 100 −1.22%) as chips sold off again; +2.27% for the week. Still below its 6 Oct record",
-  "status": "Watch",
-  "asof": "Close 13 Nov 2026",
-  "source": "Yahoo Finance live 13 Nov; CappNotes 13 Nov"
+  "display": "24,231",
+  "value": 24231.2,
+  "change": "−1.13% on Tue after −2.49% on Mon, its lowest close since April. Software also fell (Salesforce −8.5%)",
+  "status": "Stress",
+  "asof": "Close 17 Nov 2026",
+  "source": "Reuters via MarketScreener 17 Nov; CappNotes 16 Nov; Nexus morning note 17 Nov"
  },
  {
   "id": "sox",
   "group": "Equities",
   "label": "Semiconductor index (SOX)",
-  "display": "~10,150",
-  "value": 10146,
-  "change": "−3.4% on Fri as AMD (−8.75%) and Broadcom (−4.76%) gave back gains and Nvidia fell again. Still +8.05% for the week. Level worked out from the 6 Nov close (9,390) and the weekly gain; no official Fri close found",
+  "display": "9,611",
+  "value": 9610.65,
+  "change": "−5.28% on Mon 16 Nov. Its 2026 gain has shrunk from about 106% in June to about 34%. Tuesday close not yet published",
   "status": "Stress",
-  "asof": "Close 13 Nov 2026",
-  "source": "CappNotes 13 Nov; The Glass Desk 13 Nov; FourWeekMBA 7 Nov"
+  "asof": "Close 16 Nov 2026",
+  "source": "Nexus morning note 17 Nov; Reuters via MarketScreener 17 Nov"
  },
  {
   "id": "nvda",
   "group": "Equities",
   "label": "Nvidia after CEO exit",
-  "display": "US$162.85",
-  "value": 162.85,
-  "change": "−2.01% on Fri and −12.75% for the week (a sixth straight weekly fall), about 32% below its October record, after Jensen Huang resigned on 12 Nov. Weekend: the FT reports Huang is weighing a comeback, and Treasury Secretary Bessent questioned Nvidia’s export-control compliance and urged an outside CEO. Shares were little changed in Sunday-evening trading. Results Tue 17 Nov (Wed ~8:20am Melbourne)",
+  "display": "US$156.14",
+  "value": 156.14,
+  "change": "−4.12% on Mon and about −1.7% on Tue, ~24% down this month. The board is reportedly not discussing a Huang return despite President Trump backing it; Mizuho and UBS cut targets. Results Tue after the close (Wed ~8:20am Melbourne)",
   "status": "Stress",
-  "asof": "Close 13 Nov 2026",
-  "source": "Yahoo Finance live 13 Nov; CappNotes 13 Nov; Yahoo Finance/Reuters (FT report) 15 Nov; Fortune 15 Nov; AOL/Bloomberg and Kotak Neo 16 Nov"
+  "asof": "Close 16 Nov 2026",
+  "source": "CappNotes 16 Nov; Nexus 17 Nov; Reuters via MarketScreener 17 Nov; Kiplinger live 17 Nov"
  },
  {
   "id": "amd",
   "group": "Equities",
   "label": "AMD after Nvidia’s CEO exit",
-  "display": "US$534.06",
-  "value": 534.06,
-  "change": "−8.75% on Fri on profit-taking and wider industry worries after the Nvidia scandal, but +18.9% for the week as investors bet on it winning share. Q3 data-centre revenue was +97%",
-  "status": "Watch",
-  "asof": "Close 13 Nov 2026",
-  "source": "Motley Fool 13 Nov; The Glass Desk 13 Nov; AMD release 3 Nov"
+  "display": "US$504.28",
+  "value": 504.28,
+  "change": "−5.58% on Mon 16 Nov as chip and memory stocks led the sell-off",
+  "status": "Stress",
+  "asof": "Close 16 Nov 2026",
+  "source": "CappNotes 16 Nov; Nexus 17 Nov"
  },
  {
   "id": "vix",
   "group": "Equities",
   "label": "VIX volatility index",
-  "display": "19.30",
-  "value": 19.3,
-  "change": "+3.2% on Fri but down ~25% for the week; below 20 ahead of Nvidia’s results and Anthropic’s listing",
-  "status": "Watch",
-  "asof": "Close 13 Nov 2026",
-  "source": "CappNotes 13 Nov; The Glass Desk 13 Nov"
+  "display": "22.91",
+  "value": 22.91,
+  "change": "+18.7% on Mon 16 Nov, back above 20. It traded near 26 during Tuesday’s session",
+  "status": "Stress",
+  "asof": "Close 16 Nov 2026",
+  "source": "CappNotes 16 Nov; Yahoo Finance live 17 Nov (intraday)"
  },
  {
   "id": "crwv",
@@ -71,10 +71,10 @@
   "label": "CoreWeave 5-yr default protection",
   "display": "1,268 bp",
   "value": 1267.9,
-  "change": "Last published level a record 1,268 bp on 5 Nov; no newer figure. Q3 revenue +168% and a US$132.5bn backlog sent shares +14.5% for the week to US$53.13, though they fell 6.1% on Fri amid reports it is seeking at least US$4bn more in equipment-backed loans. Q3 interest cost (US$846m) exceeded operating income; debt above US$40bn",
+  "change": "Last published level a record 1,268 bp on 5 Nov; no newer figure. Shares −6.1% on Mon 16 Nov after −6.1% on Fri amid reports it is seeking at least US$4bn more in equipment-backed loans; Q3 interest cost exceeded operating income",
   "status": "Stress",
   "asof": "5 Nov 2026",
-  "source": "GV Wire 5 Nov; TradingKey 10 Nov; CappNotes 13 Nov; The Glass Desk 13 Nov; Motley Fool 13 Nov"
+  "source": "GV Wire 5 Nov; Nexus 17 Nov; Motley Fool 13 Nov; The Glass Desk 13 Nov"
  },
  {
   "id": "orcl",
@@ -82,10 +82,10 @@
   "label": "Oracle 5-yr default protection",
   "display": "296 bp",
   "value": 296,
-  "change": "296 bp on 2 Nov; no newer level published. Shares rose ~5–9% on Wed with the CoreWeave rally after hitting a 52-week low on 5 Nov. Rated BBB-; one notch above junk",
+  "change": "Last published level 296 bp on 2 Nov; recent reports put it near 300 bp. Shares −5% on Mon to about US$119, ~34% down in 2026; bondholders have sued over borrowing disclosures. Rated BBB-",
   "status": "Stress",
   "asof": "2 Nov 2026",
-  "source": "TradingKey 3 Nov (LSEG data); 24/7 Wall St 11 Nov; HDFC Sky 11 Nov"
+  "source": "TradingKey 3 Nov (LSEG data); Startup Fortune 17 Nov; CappNotes 16 Nov"
  },
  {
   "id": "googl",
@@ -146,12 +146,12 @@
   "id": "ust10",
   "group": "Macro",
   "label": "US 10-yr Treasury yield",
-  "display": "5.15%",
-  "value": 5.15,
-  "change": "+5 bp on Fri, up ~30 bp for the week from 4.86%; 2-yr 4.88%, 30-yr 5.47%. October producer prices rose 6.5% a year, the most since 2022. Rates are now the main pressure",
+  "display": "5.12%",
+  "value": 5.12,
+  "change": "−3 bp on Mon 16 Nov as investors bought bonds in the sell-off; about 5.09% during Tuesday. 2-yr 4.83%, 30-yr 5.46%",
   "status": "Stress",
-  "asof": "Close 13 Nov 2026",
-  "source": "CappNotes 13 Nov; The Glass Desk 13 Nov; StockTitan 13 Nov"
+  "asof": "Close 16 Nov 2026",
+  "source": "CappNotes 16 Nov; Euronext/Reuters 16 Nov; Yahoo Finance live 17 Nov"
  },
  {
   "id": "fed",
@@ -159,21 +159,21 @@
   "label": "US Fed funds rate",
   "display": "3.75–4.00%",
   "value": 4,
-  "change": "A 25 bp hike on 9 Dec is fully priced, with ~10% odds of 50 bp (Kalshi 91.5%, Polymarket 90.5% for 25 bp). Governor Waller said 50 bp ‘should be considered’ with core at 0.3%; Goolsbee says the Fed ‘has definitely got work to do’",
+  "change": "CME FedWatch puts a 25 bp December hike at ~95%, with at least three hikes priced through 2027. Officials increasingly cite stubborn inflation; October meeting minutes due Wed",
   "status": "Stress",
-  "asof": "13 Nov 2026",
-  "source": "CME FedWatch, Kalshi, Polymarket via CappNotes 13 Nov; TheStreet 13 Nov"
+  "asof": "17 Nov 2026",
+  "source": "Reuters via MarketScreener 17 Nov; Euronext/Reuters 16 Nov"
  },
  {
   "id": "oil",
   "group": "Macro",
   "label": "Oil (WTI crude)",
-  "display": "US$88.56",
-  "value": 88.56,
-  "change": "−0.2% on Fri and about −2% for the week, despite Thursday’s jump on renewed Iran tensions. Brent US$95.84",
+  "display": "US$85.72",
+  "value": 85.72,
+  "change": "−3.2% on Mon as flows through the Strait of Hormuz recovered, though Iran reported tankers hit by mines. Brent US$92.44",
   "status": "Watch",
-  "asof": "Close 13 Nov 2026",
-  "source": "CappNotes 13 Nov; The Glass Desk 13 Nov"
+  "asof": "Close 16 Nov 2026",
+  "source": "CappNotes 16 Nov; Euronext/Reuters 16 Nov"
  },
  {
   "id": "cpi",
@@ -190,22 +190,22 @@
   "id": "gold",
   "group": "Havens",
   "label": "Gold",
-  "display": "US$3,886/oz",
-  "value": 3886.3,
-  "change": "Flat on Fri (+0.03%) after Thursday’s 2.9% fall to a one-year low; −4.65% for the week as yields jumped. Silver −1.9%",
+  "display": "US$3,853/oz",
+  "value": 3853.0,
+  "change": "−0.9% on Mon; holding near Standard Chartered’s ~US$3,886 support zone as a strong dollar and 5% yields weigh. About US$3,868 during Tuesday",
   "status": "Stress",
-  "asof": "Close 13 Nov 2026",
-  "source": "CappNotes 13 Nov; The Glass Desk 13 Nov"
+  "asof": "Close 16 Nov 2026",
+  "source": "CappNotes 16 Nov; Yahoo Finance live 17 Nov; VT Markets"
  },
  {
   "id": "copper",
   "group": "Havens",
   "label": "Copper (COMEX)",
-  "display": "US$6.09/lb",
-  "value": 6.0905,
-  "change": "−1.7% on Fri; about 12% below the US$6.89 record of 9 Sep",
+  "display": "US$6.01/lb",
+  "value": 6.0075,
+  "change": "−1.4% on Mon 16 Nov",
   "status": "Watch",
-  "asof": "Close 13 Nov 2026",
-  "source": "CappNotes 13 Nov"
+  "asof": "Close 16 Nov 2026",
+  "source": "CappNotes 16 Nov"
  }
 ]

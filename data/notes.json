@@ -1,7 +1,7 @@
 [
  {
   "id": "takeaway",
-  "text": "No new US trading since Friday: stocks had their best week in five, but the pressure has moved to rates, with the 10-yr yield at 5.15% and a December Fed hike fully priced. Nvidia is ~32% off its record after its CEO resigned; over the weekend reports emerged that he may seek to return, and the US Treasury Secretary questioned its export compliance. This week’s tests: Nvidia’s results (Wed ~8:20am Melbourne), Anthropic’s IPO pricing (18 Nov US time) and first trade (19 Nov), and any new Oracle or CoreWeave default-protection readings."
+  "text": "The sell-off has spread: the S&P 500 fell about 3% on Monday and Tuesday, the Nasdaq hit its lowest close since April, and most stocks, not just tech, went down, while volatility rose above 20. Nvidia reports on Wednesday morning (about 8:20am Melbourne), and Anthropic prices its IPO on Wednesday US time, two direct tests of whether investors will keep funding the AI build-out."
  },
  {
   "id": "imf",
@@ -17,6 +17,6 @@
  },
  {
   "id": "disclaimer",
-  "text": "Research snapshot as at 16 Nov 2026 Melbourne time (market data to the US close on Fri 13 Nov, plus weekend news), built from public sources. Claude is made by Anthropic, which appears in this data. I’m not a licensed financial adviser and this isn’t a recommendation to buy or sell anything. It’s a framework for your own decisions or a conversation with an adviser."
+  "text": "Research snapshot as at 18 Nov 2026 Melbourne time (market data to the US close on Tue 17 Nov), built from public sources. Claude is made by Anthropic, which appears in this data. I’m not a licensed financial adviser and this isn’t a recommendation to buy or sell anything. It’s a framework for your own decisions or a conversation with an adviser."
  }
 ]

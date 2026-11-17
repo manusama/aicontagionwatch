@@ -172,6 +172,8 @@ page = f'''<!doctype html>
 <meta property="og:description" content="{e(desc)}">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://aicontagionwatch.com/">
+<meta property="og:image" content="https://aicontagionwatch.com/gauges/gauges.png">
+<meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#0f2a3d">
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='15' fill='%230f2a3d'/%3E%3Cpath d='M16 16 L5.2 9.8 A12.5 12.5 0 0 1 16 3.5 Z' fill='%23d8432f'/%3E%3Cpath d='M16 17V6M16 16l-7-4' stroke='%23fff' stroke-width='2.4' stroke-linecap='round'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -348,7 +350,7 @@ footer .fine {{ margin:28px 0 0; padding-top:20px; border-top:1px solid rgba(255
 <div class="w">
 <div class="bar">
 <a class="logo" href="#top"><svg viewBox="0 0 32 32" aria-hidden="true"><circle cx="16" cy="16" r="14.5" fill="none" stroke="#fff" stroke-opacity=".5" stroke-width="1.5"/><path d="M16 16 L5.2 9.8 A12.5 12.5 0 0 1 16 3.5 Z" fill="#d8432f"/><path d="M16 17V6M16 16l-7-4" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/></svg>AI Contagion Watch</a>
-<nav class="nav" aria-label="Sections"><a href="#gauges">Gauges</a><a href="#loop">The loop</a><a href="#signs">Warning signs</a><a href="#australia">Australia</a><a href="#scenarios">Scenarios</a><a href="#about">About</a></nav>
+<nav class="nav" aria-label="Sections"><a href="/gauges/">Car dashboard</a><a href="#gauges">Gauges</a><a href="#loop">The loop</a><a href="#signs">Warning signs</a><a href="#australia">Australia</a><a href="#scenarios">Scenarios</a><a href="#about">About</a></nav>
 </div>
 <div class="hero" id="top">
 <div class="clock-box">{clock_svg(minutes)}</div>
@@ -441,3 +443,6 @@ document.querySelectorAll('[role="tablist"]').forEach(function (list) {{
 '''
 open(os.path.join(ROOT, 'index.html'), 'w', encoding='utf-8').write(page)
 print(f'index.html written: {minutes:.1f} minutes to midnight (score {total:.3f})')
+
+import gauges
+gauges.build(ROOT, total, minutes, au, updated, asof)

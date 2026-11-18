@@ -24,13 +24,13 @@
    {
     "id": "ust10",
     "label": "US 10-year bond yield",
-    "now": 5.12,
+    "now": 5.07,
     "low": 4.0,
     "high": 5.5,
     "weight": 0.35,
-    "display": "5.12%",
-    "asof": "16 Nov 2026",
-    "source": "CappNotes; Reuters"
+    "display": "5.07%",
+    "asof": "18 Nov 2026",
+    "source": "Yahoo Finance; Euronext/Reuters"
    },
    {
     "id": "uscpi",
@@ -46,13 +46,13 @@
    {
     "id": "brent",
     "label": "Brent crude oil",
-    "now": 92.44,
+    "now": 90.93,
     "low": 70,
     "high": 120,
     "weight": 0.2,
-    "display": "US$92.44",
-    "asof": "16 Nov 2026",
-    "source": "CappNotes; Reuters"
+    "display": "US$90.93",
+    "asof": "18 Nov 2026",
+    "source": "Euronext/Reuters"
    },
    {
     "id": "aucpi",

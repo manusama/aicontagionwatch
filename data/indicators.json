@@ -3,45 +3,45 @@
   "id": "spx",
   "group": "Equities",
   "label": "S&P 500",
-  "display": "7,327",
-  "value": 7326.6,
-  "change": "−1.21% on Tue 17 Nov after −1.92% on Mon: a third and fourth straight loss, down about 3.1% in two days",
+  "display": "7,324",
+  "value": 7323.63,
+  "change": "−0.23% on Wed 18 Nov, a fifth straight loss, after −1.03% to 7,340.53 on Tue (its lowest close since late July). The Dow fell 1.11% while the Nasdaq and small caps rose",
   "status": "Stress",
-  "asof": "Close 17 Nov 2026",
-  "source": "Reuters via MarketScreener 17 Nov; CappNotes 16 Nov; Nexus morning note 17 Nov"
+  "asof": "Close 18 Nov 2026",
+  "source": "Yahoo Finance live 18 Nov; Nexus morning note 18 Nov; StockTitan 18 Nov"
  },
  {
   "id": "ndx",
   "group": "Equities",
   "label": "Nasdaq Composite",
-  "display": "24,231",
-  "value": 24231.2,
-  "change": "−1.13% on Tue after −2.49% on Mon, its lowest close since April. Software also fell (Salesforce −8.5%)",
-  "status": "Stress",
-  "asof": "Close 17 Nov 2026",
-  "source": "Reuters via MarketScreener 17 Nov; CappNotes 16 Nov; Nexus morning note 17 Nov"
+  "display": "24,430",
+  "value": 24429.89,
+  "change": "+0.42% on Wed 18 Nov after −0.74% on Tue to 24,328. Buyers returned to some tech ahead of Anthropic’s Nasdaq debut, even as Nvidia fell",
+  "status": "Watch",
+  "asof": "Close 18 Nov 2026",
+  "source": "Yahoo Finance live 18 Nov; Nexus morning note 18 Nov"
  },
  {
   "id": "sox",
   "group": "Equities",
   "label": "Semiconductor index (SOX)",
-  "display": "9,611",
-  "value": 9610.65,
-  "change": "−5.28% on Mon 16 Nov. Its 2026 gain has shrunk from about 106% in June to about 34%. Tuesday close not yet published",
+  "display": "9,643",
+  "value": 9642.88,
+  "change": "+0.34% on Tue 17 Nov, the only sector to gain that day, after −5.28% on Mon. Wednesday close not yet published; Nvidia fell 2.9% Wed. Its 2026 gain has shrunk from about 106% in June to about 34%",
   "status": "Stress",
-  "asof": "Close 16 Nov 2026",
-  "source": "Nexus morning note 17 Nov; Reuters via MarketScreener 17 Nov"
+  "asof": "Close 17 Nov 2026",
+  "source": "Nexus morning note 18 Nov"
  },
  {
   "id": "nvda",
   "group": "Equities",
   "label": "Nvidia after CEO exit",
-  "display": "Beat: US$115.8bn",
-  "value": 156.14,
-  "change": "Q3 revenue US$115.8bn (+103% y/y) beat the ~US$109bn forecast; data-centre US$107.6bn. Q4 guidance US$130bn ±3% vs ~US$125bn expected, excluding China; gross margin guided down to 71–72%. Shares rose as much as ~4% after hours to about US$160, from ~US$156 before the release. First results under interim CEO Colette Kress; Huang says he is open to returning",
-  "status": "Watch",
-  "asof": "After hours 17 Nov 2026",
-  "source": "Nvidia results 17 Nov (via StockTitan); TradingKey 17 Nov; Investing.com 17 Nov; Reuters via MarketScreener 17 Nov"
+  "display": "US$150.96",
+  "value": 150.96,
+  "change": "−2.9% on Wed 18 Nov despite beating forecasts (Q3 revenue US$115.8bn, +103%; Q4 guided to ~US$130bn). Lowest close since June 2025, reversing a ~3% pre-market gain. The board says it won’t reinstate Jensen Huang and has hired a search firm; it disclosed US$32bn of neocloud agreements, and the WSJ reports an SEC disclosure probe",
+  "status": "Stress",
+  "asof": "Close 18 Nov 2026",
+  "source": "Techi (Nasdaq prices) 18 Nov; ABC News business live 18 Nov; 24/7 Wall St 18 Nov; Yahoo Finance live 18 Nov"
  },
  {
   "id": "amd",
@@ -49,21 +49,21 @@
   "label": "AMD after Nvidia’s CEO exit",
   "display": "US$504.28",
   "value": 504.28,
-  "change": "−5.58% on Mon 16 Nov as chip and memory stocks led the sell-off",
+  "change": "Rose modestly on Wed 18 Nov (no closing figure published yet) and gained after hours on Tue with Nvidia’s results. −5.58% on Mon 16 Nov as chips led the sell-off",
   "status": "Stress",
   "asof": "Close 16 Nov 2026",
-  "source": "CappNotes 16 Nov; Nexus 17 Nov"
+  "source": "CappNotes 16 Nov; Yahoo Finance live 18 Nov; Yahoo Finance 17 Nov"
  },
  {
   "id": "vix",
   "group": "Equities",
   "label": "VIX volatility index",
-  "display": "22.91",
-  "value": 22.91,
-  "change": "+18.7% on Mon 16 Nov, back above 20. It traded near 26 during Tuesday’s session",
+  "display": "24.58",
+  "value": 24.58,
+  "change": "−3.5% on Wed 18 Nov after +11.1% to 25.46 on Tue, its fourth straight rise",
   "status": "Stress",
-  "asof": "Close 16 Nov 2026",
-  "source": "CappNotes 16 Nov; Yahoo Finance live 17 Nov (intraday)"
+  "asof": "Close 18 Nov 2026",
+  "source": "Yahoo Finance live 18 Nov; Nexus morning note 18 Nov"
  },
  {
   "id": "crwv",
@@ -71,10 +71,10 @@
   "label": "CoreWeave 5-yr default protection",
   "display": "1,268 bp",
   "value": 1267.9,
-  "change": "Last published level a record 1,268 bp on 5 Nov; no newer figure. Shares −6.1% on Mon 16 Nov after −6.1% on Fri amid reports it is seeking at least US$4bn more in equipment-backed loans; Q3 interest cost exceeded operating income",
+  "change": "Last published level a record 1,268 bp on 5 Nov; no newer figure. Shares −5% to about US$47 on Wed morning, down 34% in 2026. A new term loan at a 7–7.5% yield is pending, and the CEO says CoreWeave won’t borrow unsecured at current yields. Q4 interest cost guided at US$1.05–1.15bn",
   "status": "Stress",
   "asof": "5 Nov 2026",
-  "source": "GV Wire 5 Nov; Nexus 17 Nov; Motley Fool 13 Nov; The Glass Desk 13 Nov"
+  "source": "GV Wire 5 Nov; 24/7 Wall St via Yahoo Finance 18 Nov; Nexus 17 Nov"
  },
  {
   "id": "orcl",
@@ -82,10 +82,10 @@
   "label": "Oracle 5-yr default protection",
   "display": "296 bp",
   "value": 296,
-  "change": "Last published level 296 bp on 2 Nov; recent reports put it near 300 bp. Shares −5% on Mon to about US$119, ~34% down in 2026; bondholders have sued over borrowing disclosures. Rated BBB-",
+  "change": "Last published level 296 bp on 2 Nov; recent reports put it near 300 bp. Shares −3.4% on Tue, then flat near US$115 on Wed, about 40% down in 2026. Bondholders have sued over borrowing disclosures. Rated BBB-",
   "status": "Stress",
   "asof": "2 Nov 2026",
-  "source": "TradingKey 3 Nov (LSEG data); Startup Fortune 17 Nov; CappNotes 16 Nov"
+  "source": "TradingKey 3 Nov (LSEG data); Nexus morning note 18 Nov; 24/7 Wall St via Yahoo Finance 18 Nov"
  },
  {
   "id": "googl",
@@ -124,12 +124,12 @@
   "id": "hyoas",
   "group": "Credit",
   "label": "US high-yield bond spread",
-  "display": "320 bp",
-  "value": 320,
-  "change": "320 bp on 12 Nov, down from 330 bp; investment-grade 89 bp. Broad junk bonds keep tightening even as AI names swing",
+  "display": "323 bp",
+  "value": 323,
+  "change": "323 bp on 13 Nov, up slightly from 320 bp on 12 Nov. Broad junk bonds remain calm even as AI names swing",
   "status": "Calm",
-  "asof": "12 Nov 2026",
-  "source": "CappNotes Closing Look 13 Nov (ICE BofA)"
+  "asof": "13 Nov 2026",
+  "source": "ICE BofA via MacroRadar (FRED data); CappNotes 13 Nov"
  },
  {
   "id": "capex",
@@ -146,12 +146,12 @@
   "id": "ust10",
   "group": "Macro",
   "label": "US 10-yr Treasury yield",
-  "display": "5.12%",
-  "value": 5.12,
-  "change": "−3 bp on Mon 16 Nov as investors bought bonds in the sell-off; about 5.09% during Tuesday. 2-yr 4.83%, 30-yr 5.46%",
+  "display": "5.07%",
+  "value": 5.07,
+  "change": "−4 bp on Wed 18 Nov as oil fell and the Fed minutes came in; 5.11% on Tue. 2-yr ~4.80% (17 Nov), 30-yr 5.41%",
   "status": "Stress",
-  "asof": "Close 16 Nov 2026",
-  "source": "CappNotes 16 Nov; Euronext/Reuters 16 Nov; Yahoo Finance live 17 Nov"
+  "asof": "Close 18 Nov 2026",
+  "source": "Yahoo Finance live 18 Nov; Euronext/Reuters 18 Nov; IC Markets 18 Nov; 24/7 Wall St 18 Nov"
  },
  {
   "id": "fed",
@@ -159,21 +159,21 @@
   "label": "US Fed funds rate",
   "display": "3.75–4.00%",
   "value": 4,
-  "change": "CME FedWatch puts a 25 bp December hike at ~95%, with at least three hikes priced through 2027. Officials increasingly cite stubborn inflation; October meeting minutes due Wed",
+  "change": "CME FedWatch puts a 25 bp hike on 9 Dec at ~96%, and 69% odds of 50 bp of hikes by end-January. October minutes: almost all officials see further hikes as likely appropriate; a couple are open to more than 25 bp in December. Governor Waller again floated a half-point hike",
   "status": "Stress",
-  "asof": "17 Nov 2026",
-  "source": "Reuters via MarketScreener 17 Nov; Euronext/Reuters 16 Nov"
+  "asof": "18 Nov 2026",
+  "source": "24/7 Wall St 18 Nov (CME FedWatch); Yahoo Finance live 18 Nov; StockTitan 18 Nov (Fed minutes)"
  },
  {
   "id": "oil",
   "group": "Macro",
   "label": "Oil (WTI crude)",
-  "display": "US$85.72",
-  "value": 85.72,
-  "change": "−3.2% on Mon as flows through the Strait of Hormuz recovered, though Iran reported tankers hit by mines. Brent US$92.44",
+  "display": "US$82.08",
+  "value": 82.08,
+  "change": "−3.0% on Wed 18 Nov; Brent −2.4% to US$90.93, its lowest since late August. Falling oil eases some of the inflation pressure behind Fed hikes",
   "status": "Watch",
-  "asof": "Close 16 Nov 2026",
-  "source": "CappNotes 16 Nov; Euronext/Reuters 16 Nov"
+  "asof": "Close 18 Nov 2026",
+  "source": "Yahoo Finance live 18 Nov; Euronext/Reuters 18 Nov"
  },
  {
   "id": "cpi",
@@ -190,22 +190,22 @@
   "id": "gold",
   "group": "Havens",
   "label": "Gold",
-  "display": "US$3,853/oz",
-  "value": 3853.0,
-  "change": "−0.9% on Mon; holding near Standard Chartered’s ~US$3,886 support zone as a strong dollar and 5% yields weigh. About US$3,868 during Tuesday",
+  "display": "US$3,728/oz",
+  "value": 3728.3,
+  "change": "−3.5% on Wed 18 Nov to its lowest in over a year, below Standard Chartered’s ~US$3,886 support zone, as the dollar hit a 19-month high and rate-hike bets built. Gold and silver miners fell too",
   "status": "Stress",
-  "asof": "Close 16 Nov 2026",
-  "source": "CappNotes 16 Nov; Yahoo Finance live 17 Nov; VT Markets"
+  "asof": "Close 18 Nov 2026",
+  "source": "Yahoo Finance live 18 Nov; Euronext/Reuters 18 Nov; StockTitan 18 Nov; Benzinga 18 Nov"
  },
  {
   "id": "copper",
   "group": "Havens",
-  "label": "Copper (COMEX)",
-  "display": "US$6.01/lb",
-  "value": 6.0075,
-  "change": "−1.4% on Mon 16 Nov",
+  "label": "Copper",
+  "display": "~US$5.72/lb",
+  "value": 5.72,
+  "change": "−4.7% on Wed 18 Nov to US$12,606/tonne (about US$5.72/lb; Reuters benchmark price, not the COMEX settle)",
   "status": "Watch",
-  "asof": "Close 16 Nov 2026",
-  "source": "CappNotes 16 Nov"
+  "asof": "18 Nov 2026",
+  "source": "Euronext/Reuters 18 Nov"
  }
 ]

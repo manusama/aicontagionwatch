@@ -1,4 +1,4 @@
-"""Builds the Australian car-dashboard page (gauges/index.html) and its shareable image (gauges/gauges.png).
+"""Builds the Australian car-dashboard page (oz-gauges/index.html) and its shareable image (oz-gauges/oz-gauges.png).
 
 Called from build.py with the clock score and the Australian exposure data. Inputs live in
 data/gauges.json; data/clock_trail.json keeps one clock reading per day for the speed trend.
@@ -167,7 +167,7 @@ text{font-family:Archivo,Inter,"Helvetica Neue",Arial,sans-serif;font-variant-nu
             f'<text x="44" y="78" class="k-sub">Updated {e(upd_label)}</text>'
             f'{heat_dial}{pres_dial}{sp_dial}{titles}{"".join(pills)}'
             f'<text x="44" y="{Lo["foot_y"]}" class="k-foot">General information only, not financial advice.</text>'
-            f'<text x="{W - 44}" y="{Lo["foot_y"]}" text-anchor="end" class="k-foot">aicontagionwatch.com/gauges</text>'
+            f'<text x="{W - 44}" y="{Lo["foot_y"]}" text-anchor="end" class="k-foot">aicontagionwatch.com/oz-gauges</text>'
             f'</svg>')
 
 
@@ -295,8 +295,8 @@ def page_html(g, svg, svg_tall, upd_label, asof):
 <meta property="og:title" content="Australia’s AI dashboard">
 <meta property="og:description" content="{e(desc)}">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://aicontagionwatch.com/gauges/">
-<meta property="og:image" content="https://aicontagionwatch.com/gauges/gauges.png">
+<meta property="og:url" content="https://aicontagionwatch.com/oz-gauges/">
+<meta property="og:image" content="https://aicontagionwatch.com/oz-gauges/oz-gauges.png">
 <meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="Car-style dashboard with gauges for AI market heat, risk speed and inflation pressure in Australia">
 <meta name="twitter:card" content="summary_large_image">
@@ -345,7 +345,7 @@ def page_html(g, svg, svg_tall, upd_label, asof):
 <div class="share">
 <div><h3>Share it</h3>
 <p>Today’s dashboard is saved as an image each time the site updates. Paste this page’s link into a post to show it as a preview card, or download the image to drop it in directly.</p>
-<a class="btn" href="gauges.png" download="australia-ai-dashboard.png">Download today’s image</a></div>
+<a class="btn" href="oz-gauges.png" download="australia-ai-dashboard.png">Download today’s image</a></div>
 <div class="notice"><h3>General information only</h3>
 <p>This page is general commentary for information and education. It is not financial product advice and does not take into account your objectives, financial situation or needs. Claude, an AI model, is used to research and generate this data. Claude is owned by Anthropic, one of the key players in the AI financing boom this site tracks.</p></div>
 </div>
@@ -361,7 +361,7 @@ def render_png(svg, path):
     try:
         from playwright.sync_api import sync_playwright
     except Exception as ex:
-        print('gauges.png skipped (no Playwright):', ex)
+        print('oz-gauges.png skipped (no Playwright):', ex)
         return
     with sync_playwright() as pw:
         b = pw.chromium.launch()
@@ -376,11 +376,11 @@ def render_png(svg, path):
 def build(root, total, minutes, au, upd_label, asof):
     g = compute(root, total, minutes, au)
     svg = cluster_svg(g, upd_label)
-    out = os.path.join(root, 'gauges')
+    out = os.path.join(root, 'oz-gauges')
     os.makedirs(out, exist_ok=True)
     svg_tall = cluster_svg(g, upd_label, 'tall')
     open(os.path.join(out, 'index.html'), 'w', encoding='utf-8').write(page_html(g, svg, svg_tall, upd_label, asof))
-    render_png(svg, os.path.join(out, 'gauges.png'))
+    render_png(svg, os.path.join(out, 'oz-gauges.png'))
     print(f'gauges written: heat {g["heat"]["display"]}, speed {g["speed"]["now"]:.0f} km/h, '
           f'pressure {g["pres"]["score"]:.0f}/100')
     return g

@@ -50,14 +50,14 @@
  {
   "id": "jobs",
   "factor": "Employment",
-  "display": "4.7% unemployment",
-  "status": "Watch",
+  "display": "4.9% unemployment",
+  "status": "Stress",
   "channel": "An AI bust would reach jobs mainly through confidence and spending: falling super and share balances make households spend less (RBA analysis finds a 20% fall in AI shares would noticeably cut household spending), and stalled data-centre and tech projects cut construction and tech hiring.",
-  "reading": "Unemployment rose to 4.7% in September, the highest since October 2021, with 39,300 fewer jobs and underemployment at 6.3%. The RBA now expects unemployment to rise to 5.1% by the end of 2028 and cut its growth forecast for 2027 to 1.3%.",
-  "watch": "October jobs figures at 11:30am today, Thursday 19 November (Melbourne).",
-  "asof": "Sep 2026",
-  "next": "Labour Force, 19 Nov 2026",
-  "source": "ABS Labour Force September 2026 via MacroBusiness (15 Oct); RBA Statement on Monetary Policy Nov 2026 via Westpac IQ; RBA research reported by InvestingLive"
+  "reading": "Unemployment rose to 4.9% in October, the highest since October 2021, as 43,500 jobs were lost (mostly part-time) and participation fell to 66.6%. Youth unemployment reached 11.3%, and Victoria and Tasmania are highest at 5.4%. Underemployment eased slightly to 6.2%. The rate is already close to the 5.1% the RBA expected only by the end of 2028.",
+  "watch": "November jobs figures on 17 December, and whether rising unemployment shifts the RBA away from further hikes.",
+  "asof": "Oct 2026",
+  "next": "Labour Force, 17 Dec 2026",
+  "source": "ABS Labour Force October 2026 (19 Nov); NewsCop 19 Nov; RBA Statement on Monetary Policy Nov 2026 via Westpac IQ; RBA research reported by InvestingLive"
  },
  {
   "id": "wages",

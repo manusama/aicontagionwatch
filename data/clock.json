@@ -42,9 +42,9 @@
   "weight": 0.1,
   "calm": 4.0,
   "breach": 5.5,
-  "now": 5.07,
+  "now": 5.05,
   "unit": "%",
-  "now_display": "5.07% (18 Nov)",
+  "now_display": "5.05% (19 Nov)",
   "thresholds": "4.0% → 5.5%"
  },
  {
@@ -56,7 +56,7 @@
   "breach": 3,
   "now": 2,
   "unit": "hikes",
-  "now_display": "~2 (Dec ~96%; 69% odds of 50 bp by end-Jan)",
+  "now_display": "~2 (Dec hike ~95% priced; 69% odds of 50 bp by end-Jan, 18 Nov)",
   "thresholds": "0 → 3 hikes"
  },
  {
@@ -66,9 +66,9 @@
   "weight": 0.1,
   "calm": 15,
   "breach": 30,
-  "now": 24.58,
+  "now": 27.98,
   "unit": "",
-  "now_display": "24.58 (18 Nov)",
+  "now_display": "27.98 (19 Nov, highest since March)",
   "thresholds": "15 → 30"
  },
  {

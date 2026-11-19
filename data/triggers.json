@@ -7,38 +7,38 @@
  },
  {
   "signal": "Chip stocks",
-  "why": "Nvidia beat forecasts (Q3 revenue US$115.8bn, +103%; Q4 guided to ~US$130bn) but its shares fell 2.9% on Wednesday to US$150.96, the lowest close since June 2025, after rising about 3% before the open. The board says it won’t bring back Jensen Huang, and the WSJ reports an SEC disclosure probe. Good numbers no longer lifting the stock is a classic late-cycle sign. The chip index rose 0.3% on Tuesday; its 2026 gain has shrunk from ~106% in June to ~34%.",
-  "status": "Beat, shares fell",
+  "why": "Nvidia fell about 3% on Thursday to around US$146, a fresh low since mid-2025, after falling 2.9% on Wednesday despite beating forecasts (Q3 revenue US$115.8bn, +103%). AMD fell about 8% after short seller Hunterbrook alleged its firmware reached a blacklisted Chinese server maker (AMD denies wrongdoing). Broadcom and Micron fell about 2%. The board won’t bring back Jensen Huang, and the WSJ reports an SEC disclosure probe. Good numbers no longer lifting the stock is a classic late-cycle sign.",
+  "status": "Selling spreads",
   "state": "Stress"
  },
  {
   "signal": "Fed: December hike",
-  "why": "A 25 bp hike on 9 Dec is ~96% priced, with 69% odds of 50 bp of hikes by end-January. Wednesday’s October minutes showed almost all officials expect further hikes, and a couple are open to more than 25 bp in December; Governor Waller again floated a half-point move.",
-  "status": "~96% priced",
+  "why": "A 25 bp hike on 9 Dec is about 95% priced, with 69% odds of 50 bp of hikes by end-January. The October minutes showed almost all officials expect further hikes. Slightly higher jobless claims and a weaker Philadelphia factory survey on Thursday have not shifted the pricing yet.",
+  "status": "~95% priced",
   "state": "Stress"
  },
  {
   "signal": "Oracle and CoreWeave credit",
-  "why": "Oracle −3.4% on Tue and flat Wed, about 40% down in 2026, with ~US$108bn of debt and a bondholder lawsuit; its default protection is reported near 300 bp. CoreWeave −5% on Wed (−34% in 2026) while it prices a new term loan at a 7–7.5% yield; its CEO says it won’t borrow unsecured at current yields. No newer CoreWeave level since 1,268 bp (5 Nov).",
+  "why": "Oracle about −3% and CoreWeave about −5% on Thursday; CoreWeave jumped 10% early with Anthropic’s debut, then reversed. Oracle is about 40% down in 2026 with ~US$108bn of debt and a bondholder lawsuit; its default protection is reported near 300 bp. CoreWeave is pricing a term loan at a 7–7.5% yield. ETFs that would bet against CoreWeave, Oracle and Meta debt have been filed with the SEC. No newer CoreWeave level since 1,268 bp (5 Nov).",
   "status": "Shares falling again",
   "state": "Stress"
  },
  {
   "signal": "AI lab IPOs and funding",
-  "why": "Anthropic priced its IPO at US$83 a share, above its US$70–78 range, raising a record ~US$81bn at about a US$1.5tn valuation, the largest IPO ever. It starts trading on Nasdaq as ANT on Thu US time (early Fri Melbourne). Strong demand in a falling market shows appetite for AI is not exhausted, but the first-day trade is the real test. Separately, Nvidia reportedly cut a proposed OpenAI data-centre guarantee from US$250bn to ~US$105bn (unconfirmed). (Disclosure: Claude is made by Anthropic.)",
-  "status": "Raised ~US$81bn",
+  "why": "Anthropic opened on Nasdaq at US$111.50, 34% above its US$83 IPO price, then faded to close at US$97.17 (+17%) after raising a record ~US$81bn. Retail investors sold other tech, especially AMD, to buy it, so the debut drained the wider AI trade rather than reviving it. Nvidia reportedly cut a proposed OpenAI data-centre guarantee from US$250bn to ~US$105bn. (Disclosure: Claude is made by Anthropic.)",
+  "status": "Closed +17%",
   "state": "Watch"
  },
  {
   "signal": "10-yr Treasury yield",
-  "why": "Eased to 5.07% on Wed (5.11% Tue) as oil fell: a mild flight-to-safety signal, not a sharp fall, and yields are still near their highest since 2002.",
-  "status": "5.07%",
+  "why": "Eased 2 bp to 5.05% on Thursday as stocks fell 2%: a mild flight-to-safety signal, not the sharp fall that marks a panic. Yields are still near their highest since 2002.",
+  "status": "5.05%",
   "state": "Stress"
  },
  {
   "signal": "Oil and the Iran war",
-  "why": "WTI fell 3.0% to US$82.08 and Brent 2.4% to US$90.93 on Wed, Brent’s lowest since late August, as Hormuz flows recover. Lower oil eases the inflation pressure behind Fed hikes.",
-  "status": "US$82 WTI",
+  "why": "WTI rose 0.9% to US$83.08 and Brent to about US$92 on Thursday as reports of mines in the Strait of Hormuz offset a US stockpile build. Oil is no longer falling, so it is not easing the inflation pressure behind Fed hikes.",
+  "status": "US$83 WTI",
   "state": "Watch"
  },
  {
@@ -49,8 +49,8 @@
  },
  {
   "signal": "Market breadth",
-  "why": "Wednesday was mixed rather than broad selling: the Dow fell 1.1% and the S&P 500 0.2%, but the Nasdaq rose 0.4% and small caps 0.5%. On Tue the S&P fell 1.0%, the Dow 1.6% and small caps 1.5%. Gold fell 3.5% to a one-year low and gold miners fell with it.",
-  "status": "Mixed on Wed",
-  "state": "Watch"
+  "why": "Thursday was broad selling: more than 90% of S&P 500 stocks fell, the S&P 500 lost 2.0% (sixth straight loss), the Nasdaq 2.3%, the Dow 2.2% and small caps 1.8%. Gold fell 2.1% to a fresh one-year low, so havens are falling with shares.",
+  "status": "Broad selling",
+  "state": "Stress"
  }
 ]

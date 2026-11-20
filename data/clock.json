@@ -6,9 +6,9 @@
   "weight": 0.175,
   "calm": 100,
   "breach": 400,
-  "now": 296,
+  "now": 328,
   "unit": "bp",
-  "now_display": "296 bp (2 Nov; no newer level)",
+  "now_display": "~328 bp (20 Nov intraday high, one-month high)",
   "thresholds": "100 → 400 bp"
  },
  {
@@ -18,9 +18,9 @@
   "weight": 0.175,
   "calm": 500,
   "breach": 1500,
-  "now": 1267.9,
+  "now": 1232.6,
   "unit": "bp",
-  "now_display": "1,268 bp (5 Nov; no newer level, results since eased fears)",
+  "now_display": "~1,233 bp (20 Nov intraday high; record 1,268 bp on 5 Nov)",
   "thresholds": "500 → 1,500 bp"
  },
  {
@@ -32,7 +32,7 @@
   "breach": 0,
   "now": 35,
   "unit": "%",
-  "now_display": "+35% (pre-results consensus; no one cut 2027, but data-centre policy risk rising)",
+  "now_display": "+35% (pre-results consensus; no one has cut 2027, but a reported Google chip-order cut and policy risk)",
   "thresholds": "+50% → flat or cut"
  },
  {
@@ -42,9 +42,9 @@
   "weight": 0.1,
   "calm": 4.0,
   "breach": 5.5,
-  "now": 5.05,
+  "now": 4.92,
   "unit": "%",
-  "now_display": "5.05% (19 Nov)",
+  "now_display": "4.92% (20 Nov, −13 bp)",
   "thresholds": "4.0% → 5.5%"
  },
  {
@@ -56,7 +56,7 @@
   "breach": 3,
   "now": 2,
   "unit": "hikes",
-  "now_display": "~2 (Dec hike ~95% priced; 69% odds of 50 bp by end-Jan, 18 Nov)",
+  "now_display": "~2 (Dec hike ~92–97% priced; bets on 50 bp pared, 20 Nov)",
   "thresholds": "0 → 3 hikes"
  },
  {
@@ -66,9 +66,9 @@
   "weight": 0.1,
   "calm": 15,
   "breach": 30,
-  "now": 27.98,
+  "now": 38.4,
   "unit": "",
-  "now_display": "27.98 (19 Nov, highest since March)",
+  "now_display": "38.40 (20 Nov, highest of 2026)",
   "thresholds": "15 → 30"
  },
  {

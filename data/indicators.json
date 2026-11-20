@@ -3,23 +3,23 @@
   "id": "spx",
   "group": "Equities",
   "label": "S&P 500",
-  "display": "7,176",
-  "value": 7175.83,
-  "change": "−2.02% on Thu 19 Nov, a sixth straight loss and its longest losing run since 2024: about −6% over five sessions and −10% in a month. The Dow fell 1,101 points (−2.19%) and more than 90% of S&P 500 stocks fell",
+  "display": "6,910",
+  "value": 6910.39,
+  "change": "−3.70% on Fri 20 Nov (−265 points), a seventh straight loss, the longest losing run since February 2020. Now in a correction, 10.7% below its 6 Oct record; −8.6% for the week, the worst week since April 2025. The Dow fell 1.93% and is also in a correction",
   "status": "Stress",
-  "asof": "Close 19 Nov 2026",
-  "source": "Yahoo Finance live 19 Nov; TipRanks 19 Nov; AP via Yakima Herald 19 Nov"
+  "asof": "Close 20 Nov 2026",
+  "source": "Yahoo Finance live 20 Nov; Reuters via MarketScreener 20 Nov"
  },
  {
   "id": "ndx",
   "group": "Equities",
   "label": "Nasdaq Composite",
-  "display": "23,879",
-  "value": 23879.2,
-  "change": "−2.25% on Thu 19 Nov (−551 points), reversing a ~1.6% gain in futures before the open. Anthropic’s debut drew money out of other tech stocks rather than lifting them; small caps (Russell 2000) fell 1.82%",
+  "display": "22,618",
+  "value": 22617.73,
+  "change": "−5.28% on Fri 20 Nov (−1,261 points), wiping out its 2026 gain; about −10% for the week. 71 of 101 Nasdaq-100 members are in bear markets (20% or more off their highs), including every chip and memory stock. Small caps (Russell 2000) fell 2.54% to 2,588",
   "status": "Stress",
-  "asof": "Close 19 Nov 2026",
-  "source": "Yahoo Finance live 19 Nov; TipRanks 19 Nov"
+  "asof": "Close 20 Nov 2026",
+  "source": "Yahoo Finance live 20 Nov; TECHi 20 Nov; Reuters via MarketScreener 20 Nov"
  },
  {
   "id": "sox",
@@ -27,65 +27,65 @@
   "label": "Semiconductor index (SOX)",
   "display": "9,643",
   "value": 9642.88,
-  "change": "+0.34% on Tue 17 Nov after −5.28% on Mon. No newer index close published; on Thu 19 Nov chip stocks fell broadly (Nvidia about −3%, AMD about −8%, Broadcom and Micron about −2%). Its 2026 gain has shrunk from about 106% in June to about 34%",
+  "change": "No index close published since 17 Nov. On Fri 20 Nov chip stocks had their worst day of the sell-off: Nvidia −14.0%, AMD −13.3%, Micron −13.9%, Broadcom −12.2%. An index of ten AI hardware stocks fell 19.5% for the week and 38% since 9 Oct",
   "status": "Stress",
   "asof": "Close 17 Nov 2026",
-  "source": "Nexus morning note 18 Nov; Decrypt 19 Nov"
+  "source": "Nexus morning note 18 Nov; Yahoo Finance live 20 Nov; TECHi 20 Nov"
  },
  {
   "id": "nvda",
   "group": "Equities",
   "label": "Nvidia after CEO exit",
-  "display": "~US$146",
-  "value": 145.98,
-  "change": "About −3% on Thu 19 Nov (US$145.98 in late trade, −3.3%), a new low since mid-2025, after −2.9% on Wed despite beating forecasts. It briefly rose 1.6% in the morning before Anthropic’s debut pulled money elsewhere. The board won’t reinstate Jensen Huang, and the WSJ reports an SEC disclosure probe",
+  "display": "US$125.53",
+  "value": 125.53,
+  "change": "−14.0% on Fri 20 Nov, its biggest one-day fall since January 2025, wiping about US$490bn off its value; −22.9% for the week, a seventh straight weekly loss, and about 48% below its 6 Oct record. Reuters reports SEC enforcement staff are examining possible accounting issues (no finding of wrongdoing). Nvidia had US$118bn of customer guarantees at quarter end",
   "status": "Stress",
-  "asof": "Late 19 Nov 2026",
-  "source": "24/7 Wall St (Nasdaq prices) 19 Nov; Decrypt 19 Nov; StockTitan 19 Nov"
+  "asof": "Close 20 Nov 2026",
+  "source": "Yahoo Finance live 20 Nov; Motley Fool 20 Nov (citing Reuters); TECHi 20 Nov"
  },
  {
   "id": "amd",
   "group": "Equities",
   "label": "AMD after Nvidia’s CEO exit",
-  "display": "~US$489",
-  "value": 489.19,
-  "change": "About −8% on Thu 19 Nov (US$489.19 in late trade, −7.7%) after short seller Hunterbrook alleged its firmware kept reaching IEIT Systems, a blacklisted Chinese server maker. Hunterbrook says this does not prove an export violation, and AMD denies wrongdoing. Retail investors also sold AMD to buy Anthropic",
+  "display": "US$424.39",
+  "value": 424.39,
+  "change": "−13.3% on Fri 20 Nov and −20.5% for the week, after short seller Hunterbrook alleged its firmware kept reaching a blacklisted Chinese server maker (AMD denies wrongdoing). A US congressman has urged scrutiny of Nvidia and AMD chip sales",
   "status": "Stress",
-  "asof": "Late 19 Nov 2026",
-  "source": "24/7 Wall St 19 Nov; Yahoo Finance (Motley Fool) 19 Nov; Reuters via MarketScreener 19 Nov; Yahoo Finance live 19 Nov (Vanda Research)"
+  "asof": "Close 20 Nov 2026",
+  "source": "Yahoo Finance live 20 Nov; TECHi 20 Nov; MarketAlleys 20 Nov"
  },
  {
   "id": "vix",
   "group": "Equities",
   "label": "VIX volatility index",
-  "display": "27.98",
-  "value": 27.98,
-  "change": "+13.8% on Thu 19 Nov, near 29 in the afternoon, its highest since March",
+  "display": "38.40",
+  "value": 38.4,
+  "change": "+34.9% on Fri 20 Nov, touching 40 intraday, the highest of 2026",
   "status": "Stress",
-  "asof": "Close 19 Nov 2026",
-  "source": "Yahoo Finance live 19 Nov; TipRanks 19 Nov (CNBC)"
+  "asof": "Close 20 Nov 2026",
+  "source": "Yahoo Finance live 20 Nov"
  },
  {
   "id": "crwv",
   "group": "Credit",
   "label": "CoreWeave 5-yr default protection",
-  "display": "1,268 bp",
-  "value": 1267.9,
-  "change": "Last published level a record 1,268 bp on 5 Nov; no newer figure. Shares about −5% on Thu 19 Nov after jumping 10% early with Anthropic’s debut. A new term loan at a 7–7.5% yield is pending, and AI-debt ETFs that would bet against CoreWeave, Oracle and Meta credit have been filed with the SEC (not yet launched). Q4 interest cost guided at US$1.05–1.15bn",
+  "display": "~1,233 bp",
+  "value": 1232.6,
+  "change": "Rose as much as 76 bp to 1,233 bp on Fri 20 Nov (intraday high), below its 1,268 bp record of 5 Nov. Shares −12.0% to US$39.51 on Friday and −25.6% for the week. AI-debt ETFs that would bet against CoreWeave, Oracle and Meta credit have been filed with the SEC",
   "status": "Stress",
-  "asof": "5 Nov 2026",
-  "source": "GV Wire 5 Nov; Decrypt 19 Nov; AP via Yakima Herald 19 Nov; Emergent 11 Nov; Specterworks 19 Nov"
+  "asof": "20 Nov 2026",
+  "source": "Le Private Banker 20 Nov (default swap data); TECHi 20 Nov; CNBC 18 Nov"
  },
  {
   "id": "orcl",
   "group": "Credit",
   "label": "Oracle 5-yr default protection",
-  "display": "296 bp",
-  "value": 296,
-  "change": "Last published level 296 bp on 2 Nov; recent reports put it near 300 bp. Shares about −3% on Thu 19 Nov, about 40% down in 2026. Bondholders have sued over borrowing disclosures. Rated BBB-",
+  "display": "~328 bp",
+  "value": 328,
+  "change": "Rose as much as 4 bp to about 328 bp on Fri 20 Nov, a one-month high and above the 300 bp level this watch treats as a bursting signal. Shares about 40% down in 2026; bondholders have sued over borrowing disclosures. Rated BBB-",
   "status": "Stress",
-  "asof": "2 Nov 2026",
-  "source": "TradingKey 3 Nov (LSEG data); Decrypt 19 Nov; Nexus morning note 18 Nov"
+  "asof": "20 Nov 2026",
+  "source": "Le Private Banker 20 Nov (default swap data); Decrypt 19 Nov; Nexus morning note 18 Nov"
  },
  {
   "id": "googl",
@@ -137,21 +137,21 @@
   "label": "Big-tech capex outlook",
   "display": "Rising, cash-flow negative",
   "value": 0,
-  "change": "No hyperscaler has cut 2027 plans (Alphabet and Amazon: 'significantly' more). New risk is political: after the Democratic sweep, UBS estimates ~30% of expected 2028 US data-centre capacity additions could be at risk from construction pauses, and Microsoft is reportedly tightening oversight of neocloud projects. Microsoft +6.7% and Amazon +6.1% on Wed, then −3.6% and −2.2% Thu",
+  "change": "No hyperscaler has cut 2027 plans, but cracks are showing: analyst Ming-Chi Kuo says Google is cutting 2027 shipments of a Broadcom-designed AI chip by about a fifth (neither company has commented), and Alphabet sold bonds at wider spreads than in May. UBS estimates ~30% of expected 2028 US data-centre additions could be at risk from construction pauses. Megacaps fell 3.9% on average Fri 20 Nov (Meta −5.9%, Amazon −4.1%, Microsoft −2.8%, Alphabet −2.7%)",
   "status": "Stress",
-  "asof": "5 Nov 2026",
-  "source": "GV Wire (Reuters) 5 Nov; Reuters via Yahoo Finance 4 Nov; 404K Research 1 Nov; Motley Fool 5 Nov"
+  "asof": "5–20 Nov 2026",
+  "source": "TECHi 20 Nov; GV Wire (Reuters) 5 Nov; Reuters via Yahoo Finance 4 Nov"
  },
  {
   "id": "ust10",
   "group": "Macro",
   "label": "US 10-yr Treasury yield",
-  "display": "5.05%",
-  "value": 5.05,
-  "change": "−2 bp on Thu 19 Nov while stocks fell 2%: a small move towards safety, not a sharp fall. 5.07% on Wed. 2-yr ~4.80% (17 Nov), 30-yr 5.41% (18 Nov)",
+  "display": "4.92%",
+  "value": 4.92,
+  "change": "−13 bp on Fri 20 Nov as stocks fell 3.7%: a clear flight to safety, and −4.5% over the week. 5-yr 4.70% (−16 bp), 30-yr 5.31% (−9 bp). 2-yr ~4.80% (18 Nov, no newer close found)",
   "status": "Stress",
-  "asof": "Close 19 Nov 2026",
-  "source": "Yahoo Finance live 19 Nov; AP via Yakima Herald 19 Nov; Euronext/Reuters 18 Nov"
+  "asof": "Close 20 Nov 2026",
+  "source": "Yahoo Finance live 20 Nov; MarketAlleys (FRED) 18 Nov"
  },
  {
   "id": "fed",
@@ -159,21 +159,21 @@
   "label": "US Fed funds rate",
   "display": "3.75–4.00%",
   "value": 4,
-  "change": "A 25 bp hike on 9 Dec is ~95% priced, with 69% odds of 50 bp of hikes by end-January (18 Nov). October minutes: almost all officials see further hikes as likely appropriate. Thursday brought slightly higher jobless claims and a weaker Philadelphia factory survey",
+  "change": "A 25 bp hike on 9 Dec is about 92–97% priced (CME FedWatch, 20 Nov); bets on a bigger 50 bp move were pared back on Friday as stocks fell. Governor Lisa Cook said waiting longer risks the Fed “getting behind the curve”. PCE inflation is due 25 Nov",
   "status": "Stress",
-  "asof": "18–19 Nov 2026",
-  "source": "24/7 Wall St 18 Nov (CME FedWatch); Trading and Investment News 19 Nov; StockTitan 19 Nov"
+  "asof": "20 Nov 2026",
+  "source": "Yahoo Finance live 20 Nov (CME FedWatch); StockTitan 20 Nov; Reuters via MarketScreener 20 Nov"
  },
  {
   "id": "oil",
   "group": "Macro",
   "label": "Oil (WTI crude)",
-  "display": "US$83.08",
-  "value": 83.08,
-  "change": "+0.9% on Thu 19 Nov (December contract, which expires Friday); Brent about US$92.12, up from US$90.93, as reports of Hormuz mines offset a US stockpile build",
+  "display": "US$83.98",
+  "value": 83.98,
+  "change": "Up on Fri 20 Nov on Middle East tensions but down for a third straight week; Brent US$92.57",
   "status": "Watch",
-  "asof": "Close 19 Nov 2026",
-  "source": "Yahoo Finance live 19 Nov; FinanceFeeds 19 Nov; Reuters via Yahoo Finance 19 Nov"
+  "asof": "Close 20 Nov 2026",
+  "source": "EnergyNow 20 Nov; Yahoo Finance live 20 Nov"
  },
  {
   "id": "cpi",
@@ -190,12 +190,12 @@
   "id": "gold",
   "group": "Havens",
   "label": "Gold",
-  "display": "US$3,665/oz",
-  "value": 3664.7,
-  "change": "−2.1% on Thu 19 Nov (futures), after −3.5% Wed, a fresh low for more than a year. Gold is falling with shares rather than acting as a safe haven, as rate-hike bets and a strong dollar weigh",
+  "display": "US$3,519/oz",
+  "value": 3518.7,
+  "change": "−4.5% on Fri 20 Nov (futures), a 14-month low, after −2.1% Thu and −3.5% Wed. Gold is still falling with shares even as yields drop, which looks like forced selling rather than a hunt for safety",
   "status": "Stress",
-  "asof": "Close 19 Nov 2026",
-  "source": "Yahoo Finance live 19 Nov; Euronext/Reuters 18 Nov"
+  "asof": "Close 20 Nov 2026",
+  "source": "Yahoo Finance live 20 Nov; Le Private Banker 20 Nov"
  },
  {
   "id": "copper",

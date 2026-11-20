@@ -1,44 +1,44 @@
 [
  {
   "signal": "Big-tech capex and cash flow",
-  "why": "No hyperscaler has cut 2027 plans, but the risk has shifted to politics: after the Democratic sweep, UBS says ~30% of expected 2028 US data-centre additions could be at risk from construction pauses, and Microsoft is reportedly tightening oversight of neocloud projects. Spending is still debt-funded, with free cash flow negative at three of the four biggest spenders. New on Tue: momentum for a US plan to block imports of Chinese data-centre equipment, which Amazon, Alphabet and Meta oppose.",
-  "status": "Policy risk rising",
+  "why": "No hyperscaler has cut 2027 plans, but cracks are showing. Analyst Ming-Chi Kuo says Google is cutting 2027 shipments of a Broadcom-designed AI chip by about a fifth (neither company has commented), and Alphabet sold bonds at wider spreads than in May. After the Democratic sweep, UBS says ~30% of expected 2028 US data-centre additions could be at risk from construction pauses. Spending is still debt-funded, with free cash flow negative at three of the four biggest spenders.",
+  "status": "First order cut reported",
   "state": "Stress"
  },
  {
   "signal": "Chip stocks",
-  "why": "Nvidia fell about 3% on Thursday to around US$146, a fresh low since mid-2025, after falling 2.9% on Wednesday despite beating forecasts (Q3 revenue US$115.8bn, +103%). AMD fell about 8% after short seller Hunterbrook alleged its firmware reached a blacklisted Chinese server maker (AMD denies wrongdoing). Broadcom and Micron fell about 2%. The board won’t bring back Jensen Huang, and the WSJ reports an SEC disclosure probe. Good numbers no longer lifting the stock is a classic late-cycle sign.",
-  "status": "Selling spreads",
+  "why": "Nvidia fell 14% on Friday to US$125.53, its biggest one-day fall since January 2025, after Reuters reported SEC enforcement staff are examining possible accounting issues (no finding of wrongdoing). It is down 22.9% for the week, a seventh straight weekly loss, and 48% below its October record. AMD fell 13%, Micron 14% and Broadcom 12%. Every chip and memory stock in the Nasdaq-100 is now in a bear market.",
+  "status": "Capitulation-style selling",
   "state": "Stress"
  },
  {
   "signal": "Fed: December hike",
-  "why": "A 25 bp hike on 9 Dec is about 95% priced, with 69% odds of 50 bp of hikes by end-January. The October minutes showed almost all officials expect further hikes. Slightly higher jobless claims and a weaker Philadelphia factory survey on Thursday have not shifted the pricing yet.",
-  "status": "~95% priced",
+  "why": "A 25 bp hike on 9 Dec is still about 92–97% priced, but bets on a bigger 50 bp move were pared back on Friday as markets fell. Governor Lisa Cook said waiting risks the Fed getting behind the curve. PCE inflation on 25 Nov is the next test.",
+  "status": "~92–97% priced",
   "state": "Stress"
  },
  {
   "signal": "Oracle and CoreWeave credit",
-  "why": "Oracle about −3% and CoreWeave about −5% on Thursday; CoreWeave jumped 10% early with Anthropic’s debut, then reversed. Oracle is about 40% down in 2026 with ~US$108bn of debt and a bondholder lawsuit; its default protection is reported near 300 bp. CoreWeave is pricing a term loan at a 7–7.5% yield. ETFs that would bet against CoreWeave, Oracle and Meta debt have been filed with the SEC. No newer CoreWeave level since 1,268 bp (5 Nov).",
-  "status": "Shares falling again",
+  "why": "Oracle’s default protection rose to about 328 bp on Friday, a one-month high and above the 300 bp bursting threshold. CoreWeave’s rose as much as 76 bp to about 1,233 bp, below its 1,268 bp record of 5 Nov, while its shares fell 12% (−25.6% for the week). ETFs that would bet against CoreWeave, Oracle and Meta debt have been filed with the SEC.",
+  "status": "Oracle above 300 bp",
   "state": "Stress"
  },
  {
   "signal": "AI lab IPOs and funding",
-  "why": "Anthropic opened on Nasdaq at US$111.50, 34% above its US$83 IPO price, then faded to close at US$97.17 (+17%) after raising a record ~US$81bn. Retail investors sold other tech, especially AMD, to buy it, so the debut drained the wider AI trade rather than reviving it. Nvidia reportedly cut a proposed OpenAI data-centre guarantee from US$250bn to ~US$105bn. (Disclosure: Claude is made by Anthropic.)",
-  "status": "Closed +17%",
-  "state": "Watch"
+  "why": "Anthropic fell 8.5% on its second day to US$88.91, only about 7% above its US$83 IPO price after opening at US$111.50 on Thursday. Its debut drained money from other AI stocks rather than reviving them. Nvidia’s US$118bn of customer guarantees, including about US$105bn tied to one OpenAI data-centre campus, is now under the spotlight with the reported SEC inquiry. (Disclosure: Claude is made by Anthropic.)",
+  "status": "Near IPO price",
+  "state": "Stress"
  },
  {
   "signal": "10-yr Treasury yield",
-  "why": "Eased 2 bp to 5.05% on Thursday as stocks fell 2%: a mild flight-to-safety signal, not the sharp fall that marks a panic. Yields are still near their highest since 2002.",
-  "status": "5.05%",
+  "why": "Fell 13 bp to 4.92% on Friday as stocks fell 3.7%, and 4.5% over the week: a clear flight to safety. This is one of the bursting signals: yields falling sharply while stocks fall.",
+  "status": "4.92%, falling fast",
   "state": "Stress"
  },
  {
   "signal": "Oil and the Iran war",
-  "why": "WTI rose 0.9% to US$83.08 and Brent to about US$92 on Thursday as reports of mines in the Strait of Hormuz offset a US stockpile build. Oil is no longer falling, so it is not easing the inflation pressure behind Fed hikes.",
-  "status": "US$83 WTI",
+  "why": "WTI closed at US$83.98 and Brent at US$92.57 on Friday, up on Middle East tensions but down for a third straight week. Oil is not easing the inflation pressure behind Fed hikes.",
+  "status": "US$84 WTI",
   "state": "Watch"
  },
  {
@@ -49,8 +49,8 @@
  },
  {
   "signal": "Market breadth",
-  "why": "Thursday was broad selling: more than 90% of S&P 500 stocks fell, the S&P 500 lost 2.0% (sixth straight loss), the Nasdaq 2.3%, the Dow 2.2% and small caps 1.8%. Gold fell 2.1% to a fresh one-year low, so havens are falling with shares.",
-  "status": "Broad selling",
+  "why": "Friday deepened the rout: the S&P 500 fell 3.7% (seventh straight loss, now in a correction), the Nasdaq 5.3% (2026 gain erased), the Dow 1.9% and small caps 2.5%. Gold fell 4.5% to a 14-month low and Bitcoin dropped below US$59,000, so even havens are being sold.",
+  "status": "Correction confirmed",
   "state": "Stress"
  }
 ]

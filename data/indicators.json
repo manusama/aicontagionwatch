@@ -27,10 +27,10 @@
   "label": "Semiconductor index (SOX)",
   "display": "9,643",
   "value": 9642.88,
-  "change": "No index close published since 17 Nov. On Fri 20 Nov chip stocks had their worst day of the sell-off: Nvidia −14.0%, AMD −13.3%, Micron −13.9%, Broadcom −12.2%. An index of ten AI hardware stocks fell 19.5% for the week and 38% since 9 Oct",
+  "change": "No official index close found since 17 Nov. The chip index fell about 10.7% on Fri 20 Nov, its worst day of the sell-off: Nvidia −14.0%, AMD −13.3%, Micron −13.9%, Broadcom −12.2%. An index of ten AI hardware stocks fell 19.5% for the week and 38% since 9 Oct",
   "status": "Stress",
   "asof": "Close 17 Nov 2026",
-  "source": "Nexus morning note 18 Nov; Yahoo Finance live 20 Nov; TECHi 20 Nov"
+  "source": "Nexus morning note 18 Nov; She Who Trades 23 Nov; Yahoo Finance live 20 Nov; TECHi 20 Nov"
  },
  {
   "id": "nvda",
@@ -38,10 +38,10 @@
   "label": "Nvidia after CEO exit",
   "display": "US$125.53",
   "value": 125.53,
-  "change": "−14.0% on Fri 20 Nov, its biggest one-day fall since January 2025, wiping about US$490bn off its value; −22.9% for the week, a seventh straight weekly loss, and about 48% below its 6 Oct record. Reuters reports SEC enforcement staff are examining possible accounting issues (no finding of wrongdoing). Nvidia had US$118bn of customer guarantees at quarter end",
+  "change": "−14.0% on Fri 20 Nov, its biggest one-day fall since January 2025, wiping about US$490bn off its value; −22.9% for the week, a seventh straight weekly loss, and about 48% below its 6 Oct record. Reuters reports SEC enforcement staff are examining possible accounting issues (no finding of wrongdoing). Nvidia had US$118bn of customer guarantees at quarter end. Over the weekend President Trump said he hopes the board rehires Jensen Huang, and Treasury Secretary Bessent said Nvidia must answer on compliance",
   "status": "Stress",
   "asof": "Close 20 Nov 2026",
-  "source": "Yahoo Finance live 20 Nov; Motley Fool 20 Nov (citing Reuters); TECHi 20 Nov"
+  "source": "Yahoo Finance live 20 Nov; Motley Fool 20 Nov (citing Reuters); TECHi 20 Nov; Newsquawk 23 Nov"
  },
  {
   "id": "amd",
@@ -148,10 +148,10 @@
   "label": "US 10-yr Treasury yield",
   "display": "4.92%",
   "value": 4.92,
-  "change": "−13 bp on Fri 20 Nov as stocks fell 3.7%: a clear flight to safety, and −4.5% over the week. 5-yr 4.70% (−16 bp), 30-yr 5.31% (−9 bp). 2-yr ~4.80% (18 Nov, no newer close found)",
+  "change": "−13 bp on Fri 20 Nov as stocks fell 3.7%: a clear flight to safety, about −22 bp over the week. 2-yr 4.63%, 5-yr 4.70% (−16 bp), 30-yr 5.31% (−9 bp)",
   "status": "Stress",
   "asof": "Close 20 Nov 2026",
-  "source": "Yahoo Finance live 20 Nov; MarketAlleys (FRED) 18 Nov"
+  "source": "Yahoo Finance live 20 Nov; She Who Trades 23 Nov"
  },
  {
   "id": "fed",
@@ -192,10 +192,10 @@
   "label": "Gold",
   "display": "US$3,519/oz",
   "value": 3518.7,
-  "change": "−4.5% on Fri 20 Nov (futures), a 14-month low, after −2.1% Thu and −3.5% Wed. Gold is still falling with shares even as yields drop, which looks like forced selling rather than a hunt for safety",
+  "change": "−4.5% on Fri 20 Nov (futures), a 14-month low, and about −8% for the week. Gold is still falling with shares even as yields drop, which looks like forced selling rather than a hunt for safety. Spot gold rebounded about 2% in Asian trade on Mon 23 Nov",
   "status": "Stress",
   "asof": "Close 20 Nov 2026",
-  "source": "Yahoo Finance live 20 Nov; Le Private Banker 20 Nov"
+  "source": "Yahoo Finance live 20 Nov; Newsquawk 23 Nov"
  },
  {
   "id": "copper",

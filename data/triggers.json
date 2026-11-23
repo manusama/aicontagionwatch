@@ -7,13 +7,13 @@
  },
  {
   "signal": "Chip stocks",
-  "why": "Nvidia fell 14% on Friday to US$125.53, its biggest one-day fall since January 2025, after Reuters reported SEC enforcement staff are examining possible accounting issues (no finding of wrongdoing). It is down 22.9% for the week, a seventh straight weekly loss, and 48% below its October record. AMD fell 13%, Micron 14% and Broadcom 12%. Every chip and memory stock in the Nasdaq-100 is now in a bear market.",
+  "why": "Nvidia fell 14% on Friday to US$125.53, its biggest one-day fall since January 2025, after Reuters reported SEC enforcement staff are examining possible accounting issues (no finding of wrongdoing). It is down 22.9% for the week, a seventh straight weekly loss, and 48% below its October record. AMD fell 13%, Micron 14% and Broadcom 12%. Every chip and memory stock in the Nasdaq-100 is now in a bear market. Over the weekend President Trump said he hopes the board rehires Jensen Huang; US futures pointed to a rebound on Monday in Asia (Nasdaq futures +3%).",
   "status": "Capitulation-style selling",
   "state": "Stress"
  },
  {
   "signal": "Fed: December hike",
-  "why": "A 25 bp hike on 9 Dec is still about 92–97% priced, but bets on a bigger 50 bp move were pared back on Friday as markets fell. Governor Lisa Cook said waiting risks the Fed getting behind the curve. PCE inflation on 25 Nov is the next test.",
+  "why": "A 25 bp hike on 9 Dec is still priced above 90%, but bets on a bigger 50 bp move were pared back on Friday as markets fell. Governor Cook says policy is not tight enough, while Treasury Secretary Bessent warned more tightening could be a mistake. New York Fed President Williams speaks at 8am Tuesday Melbourne time, and October PCE inflation lands at 12:30am Thursday.",
   "status": "~92–97% priced",
   "state": "Stress"
  },

@@ -42,9 +42,9 @@
   "weight": 0.1,
   "calm": 4.0,
   "breach": 5.5,
-  "now": 4.92,
+  "now": 4.94,
   "unit": "%",
-  "now_display": "4.92% (20 Nov, −13 bp)",
+  "now_display": "~4.94% (23 Nov early afternoon, +3 bp)",
   "thresholds": "4.0% → 5.5%"
  },
  {
@@ -56,7 +56,7 @@
   "breach": 3,
   "now": 2,
   "unit": "hikes",
-  "now_display": "~2 (Dec hike ~92–97% priced; bets on 50 bp pared, 20 Nov)",
+  "now_display": "~2 (Dec hike ~93–96% priced, 23 Nov)",
   "thresholds": "0 → 3 hikes"
  },
  {
@@ -66,9 +66,9 @@
   "weight": 0.1,
   "calm": 15,
   "breach": 30,
-  "now": 38.4,
+  "now": 27.2,
   "unit": "",
-  "now_display": "38.40 (20 Nov, highest of 2026)",
+  "now_display": "~27.2 (23 Nov early afternoon, −24%; close not found)",
   "thresholds": "15 → 30"
  },
  {

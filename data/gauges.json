@@ -3,7 +3,7 @@
   "title": "Temperature",
   "question": "How much of the market rides on AI",
   "metric": "Share of the US share market held by its 10 biggest companies",
-  "now": 39.1,
+  "now": 37.0,
   "cold": 20,
   "hot": 45,
   "redline": 35,
@@ -11,9 +11,9 @@
    "value": 26,
    "label": "2000 peak"
   },
-  "display": "39.1%",
-  "asof": "5 Nov 2026",
-  "source": "Walnut Invest market concentration statistics, from SPDR S&P 500 ETF holdings (5 Nov 2026); Morgan Stanley historical series for the 2000 peak and the 1990–2015 range",
+  "display": "37.0%",
+  "asof": "12 Nov 2026",
+  "source": "Trefis (13 Nov 2026), from SPDR S&P 500 ETF holdings at the 12 Nov close; Morgan Stanley historical series for the 2000 peak and the 1990–2015 range",
   "update_note": "Sum the 10 largest weights in the S&P 500 (for example from Slickcharts or SPY holdings)."
  },
  "pressure": {
@@ -24,13 +24,13 @@
    {
     "id": "ust10",
     "label": "US 10-year bond yield",
-    "now": 4.92,
+    "now": 4.94,
     "low": 4.0,
     "high": 5.5,
     "weight": 0.35,
-    "display": "4.92%",
-    "asof": "20 Nov 2026",
-    "source": "Yahoo Finance live 20 Nov"
+    "display": "~4.94%",
+    "asof": "23 Nov 2026 (intraday)",
+    "source": "Yahoo Finance live 23 Nov"
    },
    {
     "id": "uscpi",

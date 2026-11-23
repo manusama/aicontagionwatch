@@ -1,7 +1,7 @@
 [
  {
   "id": "takeaway",
-  "text": "Friday’s AI rout was the worst of the sell-off: Nvidia fell 14% on a reported SEC accounting inquiry, the S&P 500 and Dow entered corrections and three bursting signals are flashing together (tech and the broad market falling, Oracle’s default protection above 300 bp, and yields dropping sharply as stocks fall). US futures bounced about 2–3% in Asian trade on Monday, but a rebound after a week like this is common and does not by itself mean the stress has passed. Next: Monday’s US close at 8am Tuesday 24 November Melbourne time, Australia’s October CPI at 11:30am Wednesday 25 November, and US PCE inflation at 12:30am Thursday 26 November (US markets close Thursday for Thanksgiving)."
+  "text": "US shares had their best day since April 2025 on Monday: Nvidia jumped 31% after its board reinstated Jensen Huang, the S&P 500 rose 4.8% and the Nasdaq 6.5%, and gold and Treasuries steadied, so none of the market-wide bursting signals fired. The relief is real but partial: stocks recovered only about half of last week’s fall, Oracle’s default protection was last above 300 bp, and the SEC and board inquiries into Nvidia continue. Next: Australia’s October CPI at 11:30am Wednesday 25 November Melbourne time, then US PCE inflation at 12:30am Thursday 26 November (US markets shut Thursday for Thanksgiving and close early Friday)."
  },
  {
   "id": "imf",
@@ -17,6 +17,6 @@
  },
  {
   "id": "disclaimer",
-  "text": "Research snapshot as at 23 Nov 2026 Melbourne time (market data to the US close on Fri 20 Nov), built from public sources. Claude is made by Anthropic, which appears in this data. I’m not a licensed financial adviser and this isn’t a recommendation to buy or sell anything. It’s a framework for your own decisions or a conversation with an adviser."
+  "text": "Research snapshot as at 24 Nov 2026 Melbourne time (market data to the US close on Mon 23 Nov), built from public sources. Claude is made by Anthropic, which appears in this data. I’m not a licensed financial adviser and this isn’t a recommendation to buy or sell anything. It’s a framework for your own decisions or a conversation with an adviser."
  }
 ]

@@ -3,23 +3,23 @@
   "id": "spx",
   "group": "Equities",
   "label": "S&P 500",
-  "display": "7,244",
-  "value": 7243.94,
-  "change": "+4.83% on Mon 23 Nov (about +334 points), the best day since April 2025, after Nvidia’s board reinstated Jensen Huang as CEO. It ends a seven-day losing run and recovers about half of last week’s 8.6% fall, but the index is still about 6% below its 6 Oct record. The Dow rose 3.0%",
+  "display": "7,201",
+  "value": 7201.09,
+  "change": "−0.50% on Tue 24 Nov, giving back a little of Monday’s 4.7% jump (Monday close 7,237). Chip stocks fell but the rest of the market held up: the Dow rose 0.9% to a record above 50,000 and small caps (Russell 2000) rose 0.6%. The index is still about 6% below its 6 Oct record",
   "status": "Stress",
-  "asof": "Close 23 Nov 2026",
-  "source": "24/7 Wall St closing bell 23 Nov; Yahoo Finance live 23 Nov"
+  "asof": "Close 24 Nov 2026",
+  "source": "Reuters via MarketScreener 24 Nov; investingLive 24 Nov; Zacks via Yahoo Finance 24 Nov"
  },
  {
   "id": "ndx",
   "group": "Equities",
   "label": "Nasdaq Composite",
-  "display": "~24,080",
-  "value": 24079.0,
-  "change": "+6.46% on Mon 23 Nov (level derived from Friday’s close), its best day since April 2025. Futures tracking the Nasdaq-100 had their biggest opening jump since 1999. Small caps (Russell 2000) rose about 3%, so the rebound was broad",
+  "display": "23,734",
+  "value": 23733.54,
+  "change": "−1.48% on Tue 24 Nov as chip stocks slid after Monday’s 6.5% surge; the Nasdaq-100 fell 2.0%",
   "status": "Stress",
-  "asof": "Close 23 Nov 2026",
-  "source": "24/7 Wall St closing bell 23 Nov; Yahoo Finance live 23 Nov"
+  "asof": "Close 24 Nov 2026",
+  "source": "Reuters via MarketScreener 24 Nov; investingLive 24 Nov"
  },
  {
   "id": "sox",
@@ -27,21 +27,21 @@
   "label": "Semiconductor index (SOX)",
   "display": "9,643",
   "value": 9642.88,
-  "change": "No official index close found since 17 Nov. Chip stocks rebounded hard on Mon 23 Nov: Nvidia +31%, Micron about +19%, Dell +21%, Astera Labs +23%, Taiwan chip ADRs up 15–22% intraday, after falling about 10.7% on Fri 20 Nov",
+  "change": "No official index close found since 17 Nov. Chip stocks fell sharply on Tue 24 Nov, with the index down nearly 6% intraday: Micron −11%, Astera Labs −14%, Credo −13%, AMD about −9% intraday, Nvidia −5.9%. Analog Devices −17% and Texas Instruments −11% after results/outlooks",
   "status": "Stress",
   "asof": "Close 17 Nov 2026",
-  "source": "Nexus morning note 18 Nov; StockTitan 23 Nov; 24/7 Wall St 23 Nov"
+  "source": "Nexus morning note 18 Nov; BigGo Finance 24 Nov; investingLive 24 Nov; Reuters via MarketScreener 24 Nov"
  },
  {
   "id": "nvda",
   "group": "Equities",
   "label": "Nvidia after Huang’s return",
-  "display": "US$164.50",
-  "value": 164.5,
-  "change": "+31.1% on Mon 23 Nov after the board unanimously reinstated Jensen Huang as CEO, saying government input left it confident his return poses no national security risk. One of the largest one-day gains in market value on record, but the stock is still about a third below its 6 Oct high. The independent committee investigation continues, and Reuters has reported SEC staff are examining possible accounting issues (no finding of wrongdoing)",
+  "display": "US$155.38",
+  "value": 155.38,
+  "change": "−5.86% on Tue 24 Nov, erasing about US$250bn of value, after Monday’s 31% jump on Jensen Huang’s reinstatement as CEO. Investors are weighing the governance questions: the board’s own investigation continues, Reuters has reported SEC staff are examining possible accounting issues (no finding of wrongdoing), and a congressional probe is under way",
   "status": "Stress",
-  "asof": "Close 23 Nov 2026",
-  "source": "24/7 Wall St closing bell 23 Nov; StockTitan 23 Nov; Yahoo Finance live 23 Nov; Motley Fool 20 Nov (citing Reuters)"
+  "asof": "Close 24 Nov 2026",
+  "source": "Reuters via MarketScreener 24 Nov; investingLive 24 Nov; BigGo Finance 24 Nov"
  },
  {
   "id": "amd",
@@ -49,21 +49,21 @@
   "label": "AMD after Nvidia’s CEO exit",
   "display": "US$424.39",
   "value": 424.39,
-  "change": "−13.3% on Fri 20 Nov and −20.5% for the week, after short seller Hunterbrook alleged its firmware kept reaching a blacklisted Chinese server maker (AMD denies wrongdoing). A US congressman has urged scrutiny of Nvidia and AMD chip sales. Rose on Mon 23 Nov (about +4% to +8% intraday); no confirmed close found",
+  "change": "About −9% intraday on Tue 24 Nov in the chip sell-off (no confirmed close found). Last confirmed close US$424.39 on Fri 20 Nov, after the Hunterbrook allegation about firmware reaching a blacklisted Chinese server maker (AMD denies wrongdoing)",
   "status": "Stress",
   "asof": "Close 20 Nov 2026",
-  "source": "Yahoo Finance live 20 Nov; TECHi 20 Nov; MarketAlleys 20 Nov; StockTitan 23 Nov"
+  "source": "BigGo Finance 24 Nov; Yahoo Finance live 24 Nov; Yahoo Finance live 20 Nov"
  },
  {
   "id": "vix",
   "group": "Equities",
   "label": "VIX volatility index",
-  "display": "~27.2",
-  "value": 27.2,
-  "change": "About −24% on Mon 23 Nov to about 27 (early afternoon reading; close not found), down from 38.40 on Friday but still well above calm levels",
+  "display": "~27.1",
+  "value": 27.05,
+  "change": "About +1.6% to around 27 late on Tue 24 Nov (3:30pm New York reading; close not found), after spiking more than 20% at one point intraday. Monday closed at 26.62",
   "status": "Stress",
-  "asof": "Intraday 23 Nov 2026",
-  "source": "Yahoo Finance live 23 Nov"
+  "asof": "Intraday 24 Nov 2026",
+  "source": "Yahoo Finance live 24 Nov; BigGo Finance 24 Nov; Zacks via Yahoo Finance 24 Nov"
  },
  {
   "id": "crwv",
@@ -71,10 +71,10 @@
   "label": "CoreWeave 5-yr default protection",
   "display": "~1,233 bp",
   "value": 1232.6,
-  "change": "No newer default-swap figure published; last reading rose as much as 76 bp to 1,233 bp on Fri 20 Nov (intraday high), below its 1,268 bp record of 5 Nov. Shares rebounded 22.4% to US$48.38 on Mon 23 Nov after −25.6% last week. AI-debt ETFs that would bet against CoreWeave, Oracle and Meta credit have been filed with the SEC",
+  "change": "No newer default-swap figure published; last reading rose as much as 76 bp to 1,233 bp on Fri 20 Nov (intraday high), below its 1,268 bp record of 5 Nov. Shares fell 11.9% on Tue 24 Nov, giving back about half of Monday’s 22% jump. AI-debt ETFs that would bet against CoreWeave, Oracle and Meta credit have been filed with the SEC",
   "status": "Stress",
   "asof": "20 Nov 2026",
-  "source": "Le Private Banker 20 Nov (default swap data); 24/7 Wall St 23 Nov; CNBC 18 Nov"
+  "source": "Le Private Banker 20 Nov (default swap data); investingLive 24 Nov; CNBC 18 Nov"
  },
  {
   "id": "orcl",
@@ -82,10 +82,10 @@
   "label": "Oracle 5-yr default protection",
   "display": "~328 bp",
   "value": 328,
-  "change": "No newer default-swap figure published; last reading about 328 bp on Fri 20 Nov, a one-month high and above the 300 bp level this watch treats as a bursting signal. Shares rose in Monday’s rebound (up about 5% before the open). Oracle reaffirmed its target of more than US$30bn of free cash flow in fiscal 2029. Rated BBB-",
+  "change": "No newer default-swap figure published; last reading about 328 bp on Fri 20 Nov, a one-month high and above the 300 bp level this watch treats as a bursting signal. Shares fell more than 2% intraday on Tue 24 Nov. Oracle reaffirmed its target of more than US$30bn of free cash flow in fiscal 2029. Rated BBB-",
   "status": "Stress",
   "asof": "20 Nov 2026",
-  "source": "Le Private Banker 20 Nov (default swap data); 24/7 Wall St 23 Nov; Decrypt 19 Nov"
+  "source": "Le Private Banker 20 Nov (default swap data); BigGo Finance 24 Nov; Decrypt 19 Nov"
  },
  {
   "id": "googl",
@@ -146,12 +146,12 @@
   "id": "ust10",
   "group": "Macro",
   "label": "US 10-yr Treasury yield",
-  "display": "~4.94%",
-  "value": 4.94,
-  "change": "About +3 bp on Mon 23 Nov (early afternoon reading; close not found) as money moved back into shares, after −13 bp on Friday. 2-yr 4.63% and 30-yr 5.31% are Friday closes (no newer figures found)",
+  "display": "~4.92%",
+  "value": 4.92,
+  "change": "4.924% late on Tue 24 Nov, roughly flat (+0.4 bp), after touching a two-week low just under 4.9% during the day. 2-yr 4.69% (+2 bp), 30-yr 5.31% (+1 bp)",
   "status": "Stress",
-  "asof": "Intraday 23 Nov 2026",
-  "source": "Yahoo Finance live 23 Nov; She Who Trades 23 Nov"
+  "asof": "Near close 24 Nov 2026",
+  "source": "investingLive 24 Nov; Trading Economics 24 Nov"
  },
  {
   "id": "fed",
@@ -159,21 +159,21 @@
   "label": "US Fed funds rate",
   "display": "3.75–4.00%",
   "value": 4,
-  "change": "A 25 bp hike on 9 Dec is about 93–96% priced (CME FedWatch, 23 Nov), down from about 100% last week. Governor Lisa Cook said waiting longer risks the Fed “getting behind the curve”. October PCE inflation and revised Q3 GDP are due 12:30am Thursday 26 Nov Melbourne time",
+  "change": "A 25 bp hike on 9 Dec is about 95–97% priced, with about 59% odds of another in January (24 Nov). Consumer confidence jumped to 103.3, its highest in nearly two years. October PCE inflation and revised Q3 GDP are due 12:30am Thursday 26 Nov Melbourne time",
   "status": "Stress",
-  "asof": "23 Nov 2026",
-  "source": "FinanceFeeds 23 Nov (Reuters and Yahoo Finance citing CME FedWatch); Reuters via MarketScreener 20 Nov"
+  "asof": "24 Nov 2026",
+  "source": "Trading Economics 24 Nov (CME FedWatch); Yahoo Finance live 24 Nov; investingLive 24 Nov"
  },
  {
   "id": "oil",
   "group": "Macro",
   "label": "Oil (WTI crude)",
-  "display": "~US$81.19",
-  "value": 81.19,
-  "change": "About −2.7% on Mon 23 Nov (January contract, early afternoon; settle not found), extending a three-week losing streak. Brent was about US$92 in early trade (US$92.57 Friday)",
+  "display": "US$82.05",
+  "value": 82.05,
+  "change": "+2.35% on Tue 24 Nov (January contract settle), rebounding after a three-week losing streak. Brent was about US$90.66 (+1.4%) in the afternoon",
   "status": "Watch",
-  "asof": "Intraday 23 Nov 2026",
-  "source": "Yahoo Finance live 23 Nov; AP via BNN Bloomberg 23 Nov"
+  "asof": "Settle 24 Nov 2026",
+  "source": "investingLive 24 Nov; BigGo Finance 24 Nov"
  },
  {
   "id": "cpi",
@@ -190,12 +190,12 @@
   "id": "gold",
   "group": "Havens",
   "label": "Gold",
-  "display": "~US$3,657/oz",
-  "value": 3656.5,
-  "change": "About +4% on Mon 23 Nov (futures, early afternoon; settle not found), snapping a losing streak after Friday’s 14-month low. Gold rising alongside shares suggests last week’s forced selling has eased for now",
+  "display": "~US$3,551/oz",
+  "value": 3551.02,
+  "change": "−2.3% on Tue 24 Nov (spot), giving back most of Monday’s rebound; silver fell 5.6%. Gold falling while chip stocks fall is worth watching, but the wider market held up",
   "status": "Watch",
-  "asof": "Intraday 23 Nov 2026",
-  "source": "Yahoo Finance live 23 Nov; FinanceFeeds 23 Nov (Kitco)"
+  "asof": "Late 24 Nov 2026",
+  "source": "investingLive 24 Nov; BigGo Finance 24 Nov"
  },
  {
   "id": "copper",

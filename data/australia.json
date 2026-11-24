@@ -42,10 +42,10 @@
   "status": "Watch",
   "channel": "Energy, food and finance are the systems people need to keep working in a downturn. Energy is tied to AI through data-centre power demand; food through fuel and fertiliser costs; finance through banks, super and private credit.",
   "reading": "Energy: data centres use about 5 TWh a year (~3% of the main grid), forecast to reach ~34 TWh (~13%) by 2035–36; electricity prices are up 12.8% in a year and fuel 23.6%. Food: food prices are up 3.2%. Finance: the RBA says banks hold large capital buffers and could keep lending through a severe shock; private credit is about 10% of business debt and more exposed to property than to AI.",
-  "watch": "Electricity prices and grid reliability over summer, fuel prices while the Strait of Hormuz is disrupted, and any stress in property-focused private credit funds.",
-  "asof": "Sep–Oct 2026",
+  "watch": "Electricity prices and grid reliability over summer, fuel prices while the Strait of Hormuz is disrupted, any stress in property-focused private credit funds, and APRA’s planned 2027 stress test of how AI-driven economic change could affect financial stability (announced 12 Nov).",
+  "asof": "Sep–Nov 2026",
   "next": "RBA Financial Stability Review, Mar 2027",
-  "source": "AEMO 2026 ESOO via Data Centre Magazine; ABS CPI September 2026; RBA Financial Stability Review Oct 2026"
+  "source": "AEMO 2026 ESOO via Data Centre Magazine; ABS CPI September 2026; RBA Financial Stability Review Oct 2026; APRA via MLex 13 Nov 2026"
  },
  {
   "id": "jobs",

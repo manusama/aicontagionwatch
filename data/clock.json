@@ -8,7 +8,7 @@
   "breach": 400,
   "now": 328,
   "unit": "bp",
-  "now_display": "~328 bp (20 Nov intraday high, one-month high)",
+  "now_display": "~328 bp (20 Nov intraday high; an undated 25 Nov report cites a record 356 bp)",
   "thresholds": "100 → 400 bp"
  },
  {
@@ -20,7 +20,7 @@
   "breach": 1500,
   "now": 1232.6,
   "unit": "bp",
-  "now_display": "~1,233 bp (20 Nov intraday high; record 1,268 bp on 5 Nov)",
+  "now_display": "~1,233 bp (20 Nov intraday high; an undated 25 Nov report cites a record 1,314 bp)",
   "thresholds": "500 → 1,500 bp"
  },
  {
@@ -42,9 +42,9 @@
   "weight": 0.1,
   "calm": 4.0,
   "breach": 5.5,
-  "now": 4.92,
+  "now": 4.85,
   "unit": "%",
-  "now_display": "~4.92% (24 Nov near close, roughly flat)",
+  "now_display": "~4.85% (25 Nov late session, −8 bp)",
   "thresholds": "4.0% → 5.5%"
  },
  {
@@ -56,7 +56,7 @@
   "breach": 3,
   "now": 2,
   "unit": "hikes",
-  "now_display": "~2 (Dec hike ~95–97% priced, Jan ~59%, 24 Nov)",
+  "now_display": "~2 (Dec hike ~98% priced, another expected early 2027, 25 Nov)",
   "thresholds": "0 → 3 hikes"
  },
  {
@@ -66,9 +66,9 @@
   "weight": 0.1,
   "calm": 15,
   "breach": 30,
-  "now": 27.05,
+  "now": 27.83,
   "unit": "",
-  "now_display": "~27.1 (24 Nov late session, +1.6%; close not found)",
+  "now_display": "~27.8 (25 Nov afternoon, +5.6%; close not found)",
   "thresholds": "15 → 30"
  },
  {

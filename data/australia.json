@@ -14,14 +14,14 @@
  {
   "id": "inflation",
   "factor": "Inflation and interest rates",
-  "display": "CPI 4.3%, cash rate 4.85%",
+  "display": "CPI 4.9%, cash rate 4.85%",
   "status": "Stress",
   "channel": "Two forces pull in opposite directions. The AI boom itself has added to inflation through global energy and equipment demand, and the RBA cites it directly. A bust would cool demand, but a falling Australian dollar, which tends to drop when global markets sell off, makes imports and fuel dearer.",
-  "reading": "Headline inflation was 4.3% in the year to September (trimmed mean 3.6%), driven by fuel (+23.6%) and electricity (+12.8%). The RBA raised the cash rate to 4.85% on 3 November, an 18-year high, in a 6–3 split vote. Stronger-than-expected wages on 18 November left markets pricing about a 27% chance of another hike by February. The Australian dollar was near US$0.67 on 18 November.",
-  "watch": "October CPI on 25 November, and whether the RBA holds in December as Westpac expects.",
-  "asof": "CPI Sep 2026; cash rate 3 Nov; market pricing 18 Nov",
-  "next": "Monthly CPI, 25 Nov 2026",
-  "source": "ABS CPI September 2026 (28 Oct); RBA decision 3 Nov 2026 via Westpac IQ and ABC; ABC News business live 18 Nov (Bloomberg swaps, AUD)"
+  "reading": "Headline inflation jumped to 4.9% in the year to October, the highest since 2023 and above forecasts (trimmed mean 3.8%, up from 3.6%). Housing (+6.4%), fuel (+32.5%) and electricity (+25.2%, as last year’s power rebates dropped out) led the rise. The RBA raised the cash rate to 4.85% on 3 November, an 18-year high, in a 6–3 split vote. Even so, markets on 25 November priced about a 97% chance the RBA holds in December, and the Australian dollar fell to about US$0.659.",
+  "watch": "The RBA decision at 2:30pm on 8 December, and whether fuel and power costs keep pushing inflation up while unemployment rises.",
+  "asof": "CPI Oct 2026; cash rate 3 Nov; market pricing 25 Nov",
+  "next": "RBA decision, 8 Dec 2026",
+  "source": "ABS CPI October 2026 (25 Nov); ABC News business live 25 Nov; CommBank 25 Nov; RBA decision 3 Nov 2026 via Westpac IQ and ABC"
  },
  {
   "id": "govt",
@@ -29,11 +29,11 @@
   "display": "Small direct, large indirect",
   "status": "Watch",
   "channel": "Government spending on AI itself is modest. The bigger exposure is policy that relies on private money: the National AI Plan (December 2025) aims to attract data-centre investment, and states compete for projects. If global AI investors pull back, promised data centres, jobs and grid upgrades could stall.",
-  "reading": "Direct commitments are small, such as A$29.9m for an AI Safety Institute. On 18 November Nvidia said it expects to develop up to 2 gigawatts of data-centre land, power and shell capacity in Australia by the end of 2027 with partners including Firmus and Sharon.ai, more than the ~1.6 GW the industry says exists today. That deepens the link to the US AI cycle. AEMO reports more than 40% of data-centre projects proposed since 2025 have dropped out or gone backwards in the grid queue. The RBA’s forecasts assume no AI productivity boost and no regional data-centre hub.",
+  "reading": "Direct commitments are small, such as A$29.9m for an AI Safety Institute. On 18 November Nvidia said it expects to develop up to 2 gigawatts of data-centre land, power and shell capacity in Australia by the end of 2027 with partners including Firmus and Sharon.ai, more than the ~1.6 GW the industry says exists today. That deepens the link to the US AI cycle. AEMO reports more than 40% of data-centre projects proposed since 2025 have dropped out or gone backwards in the grid queue. Construction work done rose 0.9% in the September quarter (building +2.4%), with JP Morgan pointing to strong growth in data-centre approvals and starts. The RBA’s forecasts assume no AI productivity boost and no regional data-centre hub.",
   "watch": "Whether Nvidia’s Australian plans get firm financing and grid connections, data-centre cancellations in Sydney and Melbourne, and any change to the National AI Plan.",
-  "asof": "Aug–Nov 2026; Nvidia plan 18 Nov",
+  "asof": "Aug–Nov 2026; Nvidia plan 18 Nov; construction 25 Nov",
   "next": "Mid-year budget update (MYEFO), Dec 2026",
-  "source": "CommBank on the National AI Plan (2 Dec 2025); AEMO 2026 ESOO via Data Centre Magazine; RBA Statement on Monetary Policy Nov 2026 via Westpac IQ; ABC News business live 18 Nov"
+  "source": "CommBank on the National AI Plan (2 Dec 2025); AEMO 2026 ESOO via Data Centre Magazine; RBA Statement on Monetary Policy Nov 2026 via Westpac IQ; ABC News business live 18 Nov; ABS Construction Work Done Sep qtr 2026 via ABC News business live 25 Nov"
  },
  {
   "id": "critical",
@@ -62,13 +62,13 @@
  {
   "id": "wages",
   "factor": "Wages compared with prices",
-  "display": "Wages 3.5% vs prices 4.3%",
+  "display": "Wages 3.5% vs prices 4.9%",
   "status": "Stress",
   "channel": "Whether pay keeps up with prices decides how much buffer households have going into a downturn. Falling real wages plus 18-year-high mortgage rates leave less room to absorb job losses or a hit to super.",
-  "reading": "Wages rose 1.1% in the September quarter, the fastest in nearly three years, and 3.5% over the year (private 3.4%, public 3.9%), helped by the 4.75% award wage rise. Prices rose 4.3% in the year to September, so real wages have now gone backwards for a full year, though the gap has narrowed to under a percentage point.",
-  "watch": "October CPI on 25 November, and whether stronger wages keep the RBA leaning towards another hike.",
-  "asof": "WPI Sep qtr 2026; CPI Sep 2026",
-  "next": "Monthly CPI, 25 Nov 2026",
-  "source": "ABS Wage Price Index September 2026 (18 Nov); ABC News business live 18 Nov; ABS CPI September 2026 (28 Oct)"
+  "reading": "Wages rose 1.1% in the September quarter, the fastest in nearly three years, and 3.5% over the year (private 3.4%, public 3.9%), helped by the 4.75% award wage rise. But prices rose 4.9% in the year to October, up from 4.3% in September, so the gap between pay and prices has widened again to about 1.4 percentage points and real wages keep going backwards.",
+  "watch": "Whether fuel and electricity costs keep running ahead of pay, and the December-quarter Wage Price Index in February.",
+  "asof": "WPI Sep qtr 2026; CPI Oct 2026",
+  "next": "Wage Price Index Dec qtr, Feb 2027",
+  "source": "ABS Wage Price Index September 2026 (18 Nov); ABS CPI October 2026 (25 Nov)"
  }
 ]

@@ -7,38 +7,38 @@
  },
  {
   "signal": "Chip stocks",
-  "why": "Chip stocks gave back part of Monday’s surge on Tuesday: Nvidia fell 5.9% to US$155.38, Micron 11%, AMD about 9% intraday and the chip index nearly 6% intraday. Nvidia is still about a third below its October record, its board’s investigation continues, a congressional probe is under way, and Reuters has reported SEC staff are examining possible accounting issues (no finding of wrongdoing).",
-  "status": "Relief rally fading",
+  "why": "Chip stocks fell for a second day on Wednesday: Nvidia closed about 3.9% lower at US$149.30 after dropping as much as 8% early, Micron fell about 7% intraday and Lam Research 6.5%, and the chip index was down more than 6% at one point before recovering much of it. The Nasdaq-100 briefly sat 20% below its record. Nvidia’s board investigation and a congressional probe continue, and Reuters has reported SEC staff are examining possible accounting issues (no finding of wrongdoing).",
+  "status": "Second day of losses",
   "state": "Stress"
  },
  {
   "signal": "Fed: December hike",
-  "why": "A 25 bp hike on 9 Dec is about 95–97% priced, and markets give about 59% odds of another in January (24 Nov). Consumer confidence hit its highest in nearly two years, which supports the hawks. October PCE inflation lands at 12:30am Thursday 26 Nov Melbourne time.",
-  "status": "~95–97% priced",
+  "why": "October PCE inflation rose to 3.8% a year (core 3.3%, above forecasts) and Q3 growth was revised up to 4.3%, so a 25 bp hike on 9 Dec is now about 98% priced, with another expected early in 2027 (25 Nov). The decision lands at 6am Thursday 10 Dec Melbourne time.",
+  "status": "~98% priced",
   "state": "Stress"
  },
  {
   "signal": "Oracle and CoreWeave credit",
-  "why": "No newer default-swap figures have been published since Friday 20 Nov, when Oracle’s protection rose to about 328 bp (above the 300 bp bursting threshold) and CoreWeave’s to about 1,233 bp. CoreWeave shares fell 11.9% on Tuesday after Monday’s 22% jump, and Oracle slipped more than 2% intraday. ETFs that would bet against CoreWeave, Oracle and Meta debt have been filed with the SEC.",
+  "why": "No dated default-swap figures since Friday 20 Nov, when Oracle’s protection was about 328 bp (above the 300 bp bursting threshold) and CoreWeave’s about 1,233 bp. A 25 Nov report cited new records of 356 bp for Oracle and 1,314 bp for CoreWeave, and SoftBank at 501 bp, but without dates for the readings. Oracle shares fell 4.8% on Wednesday.",
   "status": "Oracle above 300 bp",
   "state": "Stress"
  },
  {
   "signal": "AI lab IPOs and funding",
-  "why": "Anthropic closed at US$81.91 on Tuesday, down 6.5% and below its US$83 IPO price for the first time (intraday low US$75.61). Analysts cited its capital needs, the lack of a credit rating so far and profit-taking. It has committed about US$900bn to computing over two decades. Nvidia’s US$118bn of customer guarantees, about US$105bn tied to one OpenAI campus, remains in focus. (Disclosure: Claude is made by Anthropic.)",
-  "status": "Below IPO price",
+  "why": "Anthropic fell as much as 13% to about US$76 in early trading on Wednesday, well below its US$83 IPO price, before recovering to around US$84 by the afternoon (close not confirmed). Analysts have cited its capital needs and lack of a credit rating so far. Nvidia’s US$118bn of customer guarantees, about US$105bn tied to one OpenAI campus, remains in focus. (Disclosure: Claude is made by Anthropic.)",
+  "status": "Swinging around IPO price",
   "state": "Stress"
  },
  {
   "signal": "10-yr Treasury yield",
-  "why": "Roughly flat at about 4.92% on Tuesday after dipping just under 4.9% (a two-week low) during the day. Stocks were mixed rather than falling across the board, so the bursting pattern of yields falling sharply while stocks fall is not present.",
-  "status": "~4.92%, flat",
+  "why": "Fell about 8 bp to roughly 4.85% on Wednesday as investors bought bonds for safety during the tech rout, even though inflation data were hot. Tech fell while yields dropped, a partial echo of the bursting pattern, but the broad market finished only slightly lower, so it is not the full signal.",
+  "status": "~4.85%, down 8 bp",
   "state": "Watch"
  },
  {
   "signal": "Oil and the Iran war",
-  "why": "US crude rose 2.35% to settle at US$82.05 on Tuesday, snapping a three-week losing streak; Brent was about US$90.66. Oil remains well above pre-war levels, keeping inflation pressure on the Fed.",
-  "status": "~US$82 WTI",
+  "why": "US crude rose about 2% to around US$83.8 on Wednesday afternoon (settle not found), after a 2.35% rise on Tuesday. Brent settled at US$91.40 on Tuesday. Oil remains well above pre-war levels, keeping inflation pressure on the Fed.",
+  "status": "~US$84 WTI",
   "state": "Watch"
  },
  {
@@ -49,7 +49,7 @@
  },
  {
   "signal": "Market breadth",
-  "why": "Tuesday split the market: the Nasdaq fell 1.5% on chip losses while the Dow rose 0.9% to a record above 50,000 and small caps rose 0.6%. The S&P 500 slipped only 0.5%. That is a tech-led pullback, not tech and the broad market falling together.",
+  "why": "Wednesday split the market again: the Nasdaq fell about 0.6% after a 4% early drop, while the Dow rose about 0.3% after erasing a 1,100-point fall, small caps rose about 0.7% and NYSE advancers beat decliners about 2 to 1. The S&P 500 slipped only about 0.25%. Money is rotating out of tech, not leaving the market.",
   "status": "Tech down, rest up",
   "state": "Watch"
  }

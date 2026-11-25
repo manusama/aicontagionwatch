@@ -24,13 +24,13 @@
    {
     "id": "ust10",
     "label": "US 10-year bond yield",
-    "now": 4.92,
+    "now": 4.85,
     "low": 4.0,
     "high": 5.5,
     "weight": 0.35,
-    "display": "~4.92%",
-    "asof": "24 Nov 2026 (near close)",
-    "source": "investingLive 24 Nov"
+    "display": "~4.85%",
+    "asof": "25 Nov 2026 (late session)",
+    "source": "Wallstreetcn via Longbridge 25 Nov"
    },
    {
     "id": "uscpi",
@@ -46,24 +46,24 @@
    {
     "id": "brent",
     "label": "Brent crude oil",
-    "now": 90.66,
+    "now": 91.4,
     "low": 70,
     "high": 120,
     "weight": 0.2,
-    "display": "~US$90.66",
-    "asof": "24 Nov 2026 (afternoon)",
-    "source": "BigGo Finance 24 Nov"
+    "display": "US$91.40",
+    "asof": "24 Nov 2026 (settle)",
+    "source": "Goodman Macro 25 Nov"
    },
    {
     "id": "aucpi",
     "label": "Australian inflation",
-    "now": 4.3,
+    "now": 4.9,
     "low": 2.5,
     "high": 5.0,
     "weight": 0.25,
-    "display": "4.3% a year",
-    "asof": "Sep 2026",
-    "source": "ABS CPI, 28 Oct"
+    "display": "4.9% a year",
+    "asof": "Oct 2026",
+    "source": "ABS CPI, 25 Nov"
    }
   ]
  },

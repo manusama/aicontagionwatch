@@ -1,7 +1,7 @@
 [
  {
   "id": "takeaway",
-  "text": "Chip stocks gave back part of Monday’s surge on Tuesday: Nvidia fell 5.9%, Micron 11% and the Nasdaq 1.5%, and Anthropic closed below its US$83 IPO price for the first time. The rest of the market held up (the Dow hit a record above 50,000 and small caps rose), so this was a tech-led pullback rather than a broad bursting signal. Next: Australia’s October CPI at 11:30am today (Wednesday 25 November) Melbourne time, then US PCE inflation at 12:30am Thursday 26 November (US markets shut Thursday for Thanksgiving and close early Friday)."
+  "text": "Tech sold off hard again on Wednesday: hot US inflation (PCE 3.8%) and AI doubts pushed the Nasdaq down more than 4% early and the Nasdaq-100 briefly into a bear market, before buyers cut the losses; Nvidia closed about 4% lower and Oracle 4.8% lower, while the Dow finished higher and bond yields fell. Australia’s October CPI jumped to 4.9%, but markets still expect the RBA to hold on 8 December. Next: US markets shut Thursday for Thanksgiving and close early Friday (5am Saturday 28 November Melbourne time); the RBA decision is 2:30pm Tuesday 8 December and the Fed’s is 6am Thursday 10 December Melbourne time."
  },
  {
   "id": "imf",
@@ -17,6 +17,6 @@
  },
  {
   "id": "disclaimer",
-  "text": "Research snapshot as at 25 Nov 2026 Melbourne time (market data to the US close on Tue 24 Nov), built from public sources. Claude is made by Anthropic, which appears in this data. I’m not a licensed financial adviser and this isn’t a recommendation to buy or sell anything. It’s a framework for your own decisions or a conversation with an adviser."
+  "text": "Research snapshot as at 26 Nov 2026 Melbourne time (market data to the US close on Wed 25 Nov), built from public sources. Claude is made by Anthropic, which appears in this data. I’m not a licensed financial adviser and this isn’t a recommendation to buy or sell anything. It’s a framework for your own decisions or a conversation with an adviser."
  }
 ]

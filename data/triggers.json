@@ -7,7 +7,7 @@
  },
  {
   "signal": "Chip stocks",
-  "why": "Chip stocks fell for a second day on Wednesday: Nvidia closed about 3.9% lower at US$149.30 after dropping as much as 8% early, Micron fell about 7% intraday and Lam Research 6.5%, and the chip index was down more than 6% at one point before recovering much of it. The Nasdaq-100 briefly sat 20% below its record. Nvidia’s board investigation and a congressional probe continue, and Reuters has reported SEC staff are examining possible accounting issues (no finding of wrongdoing).",
+  "why": "Chip stocks fell for a second day on Wednesday: Nvidia closed about 3.9% lower at US$149.30 after dropping as much as 8% early, Micron fell about 7% intraday and Lam Research 6.5%, and the chip index was down more than 6% at one point before recovering much of it. The Nasdaq-100 briefly sat 20% below its record. Nvidia’s board investigation and a congressional probe continue, and Reuters has reported SEC staff are examining possible accounting issues (no finding of wrongdoing). On Wednesday S&P Global Ratings warned it could downgrade Nvidia’s credit rating over governance.",
   "status": "Second day of losses",
   "state": "Stress"
  },
@@ -25,26 +25,26 @@
  },
  {
   "signal": "AI lab IPOs and funding",
-  "why": "Anthropic fell as much as 13% to about US$76 in early trading on Wednesday, well below its US$83 IPO price, before recovering to around US$84 by the afternoon (close not confirmed). Analysts have cited its capital needs and lack of a credit rating so far. Nvidia’s US$118bn of customer guarantees, about US$105bn tied to one OpenAI campus, remains in focus. (Disclosure: Claude is made by Anthropic.)",
-  "status": "Swinging around IPO price",
+  "why": "Anthropic swung from as much as 13% below its US$83 IPO price early on Wednesday to close about 1.1% higher, still just below the IPO price. Analysts have cited its capital needs and lack of a credit rating so far. Nvidia’s US$118bn of customer guarantees, about US$105bn tied to one OpenAI campus, remains in focus. (Disclosure: Claude is made by Anthropic.)",
+  "status": "Just below IPO price",
   "state": "Stress"
  },
  {
   "signal": "10-yr Treasury yield",
-  "why": "Fell about 8 bp to roughly 4.85% on Wednesday as investors bought bonds for safety during the tech rout, even though inflation data were hot. Tech fell while yields dropped, a partial echo of the bursting pattern, but the broad market finished only slightly lower, so it is not the full signal.",
-  "status": "~4.85%, down 8 bp",
+  "why": "Closed about 4.81–4.85% on Wednesday, down roughly 6–9 bp, as investors bought bonds for safety during the tech rout even though inflation data were hot. Tech fell while yields dropped, a partial echo of the bursting pattern, but the broad market finished only slightly lower, so it is not the full signal.",
+  "status": "~4.85%, down",
   "state": "Watch"
  },
  {
   "signal": "Oil and the Iran war",
-  "why": "US crude rose about 2% to around US$83.8 on Wednesday afternoon (settle not found), after a 2.35% rise on Tuesday. Brent settled at US$91.40 on Tuesday. Oil remains well above pre-war levels, keeping inflation pressure on the Fed.",
+  "why": "US crude closed around US$84.1 on Wednesday (+2.5%) and rose about 1% more to around US$84.5 in thin Thanksgiving trade; Brent was about US$91.1. Oil remains well above pre-war levels, keeping inflation pressure on the Fed.",
   "status": "~US$84 WTI",
   "state": "Watch"
  },
  {
   "signal": "Private credit and non-banks",
-  "why": "High-yield spread 323 bp on 13 Nov (320 bp on 12 Nov): broad credit is still calm. IMF: US bank loans to non-bank lenders rose 18% in 2026.",
-  "status": "Contained",
+  "why": "The high-yield spread widened to 372 bp on 24 Nov from 323 bp on 13 Nov, so the AI sell-off is starting to reach broad credit, though spreads are still far from crisis levels. IMF: US bank loans to non-bank lenders rose 18% in 2026.",
+  "status": "Widening (372 bp)",
   "state": "Watch"
  },
  {

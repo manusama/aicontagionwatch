@@ -38,10 +38,10 @@
   "label": "Nvidia after Huang’s return",
   "display": "US$149.30",
   "value": 149.3,
-  "change": "About −3.9% on Wed 25 Nov (down as much as 8% early), a second day of losses after Monday’s 31% jump on Jensen Huang’s return as CEO. It is about 30% below a month ago. The board’s investigation and a congressional probe continue, and Reuters has reported SEC staff are examining possible accounting issues (no finding of wrongdoing)",
+  "change": "About −3.9% on Wed 25 Nov (down as much as 8% early), a second day of losses after Monday’s 31% jump on Jensen Huang’s return as CEO. It is about 30% below a month ago. The board’s investigation and a congressional probe continue, and Reuters has reported SEC staff are examining possible accounting issues (no finding of wrongdoing). On Wed 25 Nov S&P Global Ratings warned it could downgrade Nvidia’s credit rating over management and governance concerns, after Moody’s cut its outlook to stable on 18 Nov",
   "status": "Stress",
   "asof": "Close 25 Nov 2026",
-  "source": "MarketAlleys closing tape 25 Nov; Zhitong via Longbridge 25 Nov; Yahoo Finance live 25 Nov; 24/7 Wall St 25 Nov"
+  "source": "MarketAlleys closing tape 25 Nov; Zhitong via Longbridge 25 Nov; Yahoo Finance live 25 Nov; 24/7 Wall St 25 Nov; AP via BNN Bloomberg 26 Nov (S&P Global warning)"
  },
  {
   "id": "amd",
@@ -58,12 +58,12 @@
   "id": "vix",
   "group": "Equities",
   "label": "VIX volatility index",
-  "display": "~27.8",
-  "value": 27.83,
-  "change": "About +5.6% to around 27.8 in the afternoon of Wed 25 Nov (3pm New York reading; close not found). Tuesday was about 27",
+  "display": "~28.0",
+  "value": 28.03,
+  "change": "Closed about 28.0 on Wed 25 Nov, up roughly 6–7% on the day (reported closes range from 27.98 to 28.29). Tuesday closed about 26.4. US markets were shut Thursday for Thanksgiving",
   "status": "Stress",
-  "asof": "Intraday 25 Nov 2026",
-  "source": "Yahoo Finance live 25 Nov"
+  "asof": "Close 25 Nov 2026",
+  "source": "The Close (Weekend Spread) 25 Nov; Vista Partners 25 Nov; Portfolio Terminal 25 Nov"
  },
  {
   "id": "crwv",
@@ -124,12 +124,12 @@
   "id": "hyoas",
   "group": "Credit",
   "label": "US high-yield bond spread",
-  "display": "323 bp",
-  "value": 323,
-  "change": "323 bp on 13 Nov, up slightly from 320 bp on 12 Nov. Broad junk bonds remain calm even as AI names swing",
-  "status": "Calm",
-  "asof": "13 Nov 2026",
-  "source": "ICE BofA via MacroRadar (FRED data); CappNotes 13 Nov"
+  "display": "372 bp",
+  "value": 372,
+  "change": "372 bp on Tue 24 Nov, up from 347 bp on 18 Nov and 323 bp on 13 Nov: junk-bond spreads have widened about 50 bp in under two weeks as the AI sell-off spread into credit. Still well below crisis levels",
+  "status": "Watch",
+  "asof": "24 Nov 2026",
+  "source": "ICE BofA US High Yield OAS via FRED (updated 25 Nov)"
  },
  {
   "id": "capex",
@@ -148,10 +148,10 @@
   "label": "US 10-yr Treasury yield",
   "display": "~4.85%",
   "value": 4.85,
-  "change": "About 4.85% late on Wed 25 Nov, down about 8 bp (low 4.80%) as investors bought bonds for safety despite hot inflation data. 2-yr about 4.64% (−5 bp), 30-yr about 5.24% (−8 bp). Bond market shut Thursday, early close Friday",
+  "change": "Closed about 4.81–4.85% on Wed 25 Nov depending on source, down roughly 6–9 bp, as investors bought bonds for safety despite hot inflation data. 2-yr about 4.59% (−8 bp), 30-yr about 5.24% late session. Bond market shut Thursday for Thanksgiving, early close Friday",
   "status": "Stress",
-  "asof": "Late session 25 Nov 2026",
-  "source": "Wallstreetcn via Longbridge 25 Nov (3:52pm New York); CNBC 25 Nov; JournalArta 25 Nov"
+  "asof": "Close 25 Nov 2026",
+  "source": "Vista Partners 25 Nov (4.848%); The Close (Weekend Spread) 25 Nov (4.81%, 2-yr); Wallstreetcn via Longbridge 25 Nov (30-yr)"
  },
  {
   "id": "fed",
@@ -168,12 +168,12 @@
   "id": "oil",
   "group": "Macro",
   "label": "Oil (WTI crude)",
-  "display": "~US$83.8",
-  "value": 83.77,
-  "change": "About +2.1% to around US$83.8 in the afternoon of Wed 25 Nov (January futures; settle not found), after a 2.35% rise to US$82.05 on Tuesday. Brent settled at US$91.40 on Tuesday (+2.3%)",
+  "display": "~US$84.5",
+  "value": 84.51,
+  "change": "Up about 1% to around US$84.5 on Thu 26 Nov in thin holiday trade, after closing around US$84.1 on Wed 25 Nov (January futures, +2.5%). Brent about US$91.1 on Thursday",
   "status": "Watch",
-  "asof": "Intraday 25 Nov 2026",
-  "source": "Yahoo Finance live 25 Nov; Goodman Macro 25 Nov (24 Nov settles)"
+  "asof": "Intraday 26 Nov 2026",
+  "source": "AP via BNN Bloomberg 26 Nov; Vista Partners 25 Nov"
  },
  {
   "id": "cpi",
@@ -190,12 +190,12 @@
   "id": "gold",
   "group": "Havens",
   "label": "Gold",
-  "display": "~US$3,575/oz",
-  "value": 3575.0,
-  "change": "About −0.45% to around US$3,575 in the afternoon of Wed 25 Nov (December futures; spot close not found), after −2.3% on Tuesday. Gold slipping while chip stocks fall is worth watching, but the wider market held up",
+  "display": "~US$3,598/oz",
+  "value": 3598.0,
+  "change": "Spot gold up about 0.5% to around US$3,598 on Thu 26 Nov afternoon Melbourne time, as Asian and European shares rebounded. Wednesday readings varied (about US$3,540–3,600 futures). Gold has held up while chip stocks fell, so no forced-selling signal yet",
   "status": "Watch",
-  "asof": "Intraday 25 Nov 2026",
-  "source": "Yahoo Finance live 25 Nov; investingLive 24 Nov"
+  "asof": "26 Nov 2026 (4:20pm AEDT)",
+  "source": "ABC News business live 26 Nov; Vista Partners 25 Nov; The Close (Weekend Spread) 25 Nov"
  },
  {
   "id": "copper",

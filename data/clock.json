@@ -44,7 +44,7 @@
   "breach": 5.5,
   "now": 4.85,
   "unit": "%",
-  "now_display": "~4.85% (25 Nov late session, −8 bp)",
+  "now_display": "~4.85% (25 Nov close, down ~6–9 bp)",
   "thresholds": "4.0% → 5.5%"
  },
  {
@@ -66,9 +66,9 @@
   "weight": 0.1,
   "calm": 15,
   "breach": 30,
-  "now": 27.83,
+  "now": 28.03,
   "unit": "",
-  "now_display": "~27.8 (25 Nov afternoon, +5.6%; close not found)",
+  "now_display": "~28.0 (25 Nov close, up ~6–7%)",
   "thresholds": "15 → 30"
  },
  {

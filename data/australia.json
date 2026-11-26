@@ -2,14 +2,14 @@
  {
   "id": "super",
   "factor": "Superannuation",
-  "display": "~A$4.8tn, about half offshore",
+  "display": "~A$4.7tn, about half offshore",
   "status": "Watch",
   "channel": "Super is the main way an AI share-market fall reaches Australian households. About half of large funds’ investments are overseas, with roughly 31% in listed international shares, much of it in US markets where AI stocks dominate. Funds also hold growing unlisted assets, whose values are updated more slowly.",
-  "reading": "Balances hit a record of nearly A$4.8tn in 2025–26 and rose 5.2% in the June quarter as markets recovered. The RBA calls super a source of stability but wants funds to strengthen how they manage sudden cash calls, for example from currency hedges when the dollar falls or from members switching or withdrawing.",
-  "watch": "APRA’s September-quarter statistics (December), and how funds handle currency-hedge cash calls if the Australian dollar drops sharply.",
-  "asof": "FY2025–26; allocation split Sep 2025",
-  "next": "APRA quarterly statistics, Dec 2026",
-  "source": "Financial Standard 1 Sep 2026; ABS Financial Accounts (24 Sep 2026); Super Members Council/ASFA paper on super and international investments (Sep 2025 data); RBA Financial Stability Review Oct 2026"
+  "reading": "APRA’s September-quarter figures, out on 26 November, show super assets edged up 0.3% in the quarter to about A$4.7tn, a much slower gain than the 5.2% in the June quarter as markets wobbled. Contributions rose 17.4% to A$253.2bn over the year, helped by the higher compulsory rate. The RBA calls super a source of stability but wants funds to strengthen how they manage sudden cash calls, for example from currency hedges when the dollar falls or from members switching or withdrawing.",
+  "watch": "How December-quarter balances fare after the November tech sell-off, and how funds handle currency-hedge cash calls if the Australian dollar drops sharply.",
+  "asof": "Sep qtr 2026 (APRA, 26 Nov); allocation split Sep 2025",
+  "next": "APRA quarterly statistics, Feb 2027",
+  "source": "APRA quarterly superannuation statistics Sep 2026 via ABC News business live 26 Nov; Super Members Council/ASFA paper on super and international investments (Sep 2025 data); RBA Financial Stability Review Oct 2026"
  },
  {
   "id": "inflation",
@@ -26,14 +26,14 @@
  {
   "id": "govt",
   "factor": "Government investment in the AI economy",
-  "display": "Small direct, large indirect",
+  "display": "Small direct, large and growing indirect",
   "status": "Watch",
   "channel": "Government spending on AI itself is modest. The bigger exposure is policy that relies on private money: the National AI Plan (December 2025) aims to attract data-centre investment, and states compete for projects. If global AI investors pull back, promised data centres, jobs and grid upgrades could stall.",
-  "reading": "Direct commitments are small, such as A$29.9m for an AI Safety Institute. On 18 November Nvidia said it expects to develop up to 2 gigawatts of data-centre land, power and shell capacity in Australia by the end of 2027 with partners including Firmus and Sharon.ai, more than the ~1.6 GW the industry says exists today. That deepens the link to the US AI cycle. AEMO reports more than 40% of data-centre projects proposed since 2025 have dropped out or gone backwards in the grid queue. Construction work done rose 0.9% in the September quarter (building +2.4%), with JP Morgan pointing to strong growth in data-centre approvals and starts. The RBA’s forecasts assume no AI productivity boost and no regional data-centre hub.",
-  "watch": "Whether Nvidia’s Australian plans get firm financing and grid connections, data-centre cancellations in Sydney and Melbourne, and any change to the National AI Plan.",
-  "asof": "Aug–Nov 2026; Nvidia plan 18 Nov; construction 25 Nov",
-  "next": "Mid-year budget update (MYEFO), Dec 2026",
-  "source": "CommBank on the National AI Plan (2 Dec 2025); AEMO 2026 ESOO via Data Centre Magazine; RBA Statement on Monetary Policy Nov 2026 via Westpac IQ; ABC News business live 18 Nov; ABS Construction Work Done Sep qtr 2026 via ABC News business live 25 Nov"
+  "reading": "Direct commitments are small, such as A$29.9m for an AI Safety Institute. But private investment is surging: business investment jumped 12.2% in the September quarter (18.6% over the year), the biggest rise since the 2011 mining boom, driven by data-centre equipment, and firms raised their 2026–27 spending plans by 11.8%. RBA Governor Bullock has said about 70% of that equipment is imported, so less of it flows into local jobs. On 26 November a proposed A$32bn Anthropic-backed data centre in Queensland’s Western Downs won federal environmental approval (disclosure: Claude is made by Anthropic). Nvidia plans up to 2 gigawatts of Australian data-centre capacity by the end of 2027. AEMO reports more than 40% of data-centre projects proposed since 2025 have dropped out or gone backwards in the grid queue. The RBA’s forecasts assume no AI productivity boost and no regional data-centre hub.",
+  "watch": "Whether the big data-centre plans get firm financing and grid connections, cancellations in Sydney and Melbourne, the September-quarter national accounts on 2 December, and any change to the National AI Plan.",
+  "asof": "Capex Sep qtr 2026 (26 Nov); Queensland approval 26 Nov; Nvidia plan 18 Nov",
+  "next": "National accounts 2 Dec; MYEFO, Dec 2026",
+  "source": "ABS Private New Capital Expenditure Sep 2026 (26 Nov); ABC News business live 26 Nov; TechTimes 26 Nov (Bullock on imports); AEMO 2026 ESOO via Data Centre Magazine; RBA Statement on Monetary Policy Nov 2026 via Westpac IQ; ABC News business live 18 Nov"
  },
  {
   "id": "critical",

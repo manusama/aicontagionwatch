@@ -29,8 +29,8 @@
     "high": 5.5,
     "weight": 0.35,
     "display": "~4.85%",
-    "asof": "25 Nov 2026 (late session)",
-    "source": "Wallstreetcn via Longbridge 25 Nov"
+    "asof": "25 Nov 2026 (close)",
+    "source": "Vista Partners 25 Nov; The Close (Weekend Spread) 25 Nov"
    },
    {
     "id": "uscpi",
@@ -46,13 +46,13 @@
    {
     "id": "brent",
     "label": "Brent crude oil",
-    "now": 91.4,
+    "now": 91.09,
     "low": 70,
     "high": 120,
     "weight": 0.2,
-    "display": "US$91.40",
-    "asof": "24 Nov 2026 (settle)",
-    "source": "Goodman Macro 25 Nov"
+    "display": "~US$91.10",
+    "asof": "26 Nov 2026 (intraday)",
+    "source": "AP via BNN Bloomberg 26 Nov"
    },
    {
     "id": "aucpi",

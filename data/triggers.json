@@ -7,50 +7,50 @@
  },
  {
   "signal": "Chip stocks",
-  "why": "Chip stocks fell for a second day on Wednesday: Nvidia closed about 3.9% lower at US$149.30 after dropping as much as 8% early, Micron fell about 7% intraday and Lam Research 6.5%, and the chip index was down more than 6% at one point before recovering much of it. The Nasdaq-100 briefly sat 20% below its record. Nvidia’s board investigation and a congressional probe continue, and Reuters has reported SEC staff are examining possible accounting issues (no finding of wrongdoing). On Wednesday S&P Global Ratings warned it could downgrade Nvidia’s credit rating over governance.",
-  "status": "Second day of losses",
-  "state": "Stress"
+  "why": "Chip stocks led a sharp rebound: the chip index jumped 4.7% on Friday and the SMH chip fund rose 10% for the week, with Micron +7.6% and Broadcom +3.8% on Friday. Nvidia lagged at +0.8% to US$150.49, still about 30% below a month ago. Its board investigation and a congressional probe continue, Reuters has reported SEC staff are examining possible accounting issues (no finding of wrongdoing), and S&P Global Ratings has its AA rating on watch for a downgrade over governance.",
+  "status": "Rebounding; Nvidia lagging",
+  "state": "Watch"
  },
  {
   "signal": "Fed: December hike",
-  "why": "October PCE inflation rose to 3.8% a year (core 3.3%, above forecasts) and Q3 growth was revised up to 4.3%, so a 25 bp hike on 9 Dec is now about 98% priced, with another expected early in 2027 (25 Nov). The decision lands at 6am Thursday 10 Dec Melbourne time.",
-  "status": "~98% priced",
+  "why": "October PCE inflation rose to 3.8% a year (core 3.3%) and Q3 growth was revised up to 4.3%, so a 25 bp hike on 9 Dec is about 97–99% priced, with another expected in January or early 2027 (26–27 Nov). US November jobs data land at 12:30am Saturday 5 Dec Melbourne time; the Fed decides at 6am Thursday 10 Dec.",
+  "status": "~97–99% priced",
   "state": "Stress"
  },
  {
   "signal": "Oracle and CoreWeave credit",
-  "why": "No dated default-swap figures since Friday 20 Nov, when Oracle’s protection was about 328 bp (above the 300 bp bursting threshold) and CoreWeave’s about 1,233 bp. A 25 Nov report cited new records of 356 bp for Oracle and 1,314 bp for CoreWeave, and SoftBank at 501 bp, but without dates for the readings. Oracle shares fell 4.8% on Wednesday.",
+  "why": "No dated default-swap figures since Friday 20 Nov, when Oracle’s protection was about 328 bp (above the 300 bp bursting threshold) and CoreWeave’s about 1,233 bp. A 25 Nov report cited records of 356 bp for Oracle and 1,314 bp for CoreWeave, and SoftBank at 501 bp, without dates. Shares recovered over the week: Oracle about +5%, CoreWeave about +12%.",
   "status": "Oracle above 300 bp",
   "state": "Stress"
  },
  {
   "signal": "AI lab IPOs and funding",
-  "why": "Anthropic swung from as much as 13% below its US$83 IPO price early on Wednesday to close about 1.1% higher, still just below the IPO price. Analysts have cited its capital needs and lack of a credit rating so far. Nvidia’s US$118bn of customer guarantees, about US$105bn tied to one OpenAI campus, remains in focus. (Disclosure: Claude is made by Anthropic.)",
-  "status": "Just below IPO price",
-  "state": "Stress"
+  "why": "Anthropic jumped about 11% to US$91.88 on Friday, about 11% above its US$83 IPO price, after a weak first week of trading. Analysts have cited its capital needs and lack of a credit rating so far. No new OpenAI funding news. Nvidia’s US$118bn of customer guarantees, about US$105bn tied to one OpenAI campus, remains in focus. (Disclosure: Claude is made by Anthropic.)",
+  "status": "Above IPO price",
+  "state": "Watch"
  },
  {
   "signal": "10-yr Treasury yield",
-  "why": "Closed about 4.81–4.85% on Wednesday, down roughly 6–9 bp, as investors bought bonds for safety during the tech rout even though inflation data were hot. Tech fell while yields dropped, a partial echo of the bursting pattern, but the broad market finished only slightly lower, so it is not the full signal.",
-  "status": "~4.85%, down",
+  "why": "About 4.90% on Friday in a shortened session, up roughly 3–5 bp as money moved back into stocks. Yields and stocks rose together, the opposite of the bursting pattern (yields falling sharply while stocks fall).",
+  "status": "~4.90%, up slightly",
   "state": "Watch"
  },
  {
   "signal": "Oil and the Iran war",
-  "why": "US crude closed around US$84.1 on Wednesday (+2.5%) and rose about 1% more to around US$84.5 in thin Thanksgiving trade; Brent was about US$91.1. Oil remains well above pre-war levels, keeping inflation pressure on the Fed.",
-  "status": "~US$84 WTI",
+  "why": "WTI settled at US$83.08 on Friday (−0.9% for the week) while Brent ended at US$95.44, up about 3% for the week on attacks on tankers and Saudi facilities. OPEC+ meets Sunday and is expected to hold output. Oil remains well above pre-war levels, keeping inflation pressure on the Fed.",
+  "status": "~US$83 WTI, ~US$95 Brent",
   "state": "Watch"
  },
  {
   "signal": "Private credit and non-banks",
-  "why": "The high-yield spread widened to 372 bp on 24 Nov from 323 bp on 13 Nov, so the AI sell-off is starting to reach broad credit, though spreads are still far from crisis levels. IMF: US bank loans to non-bank lenders rose 18% in 2026.",
-  "status": "Widening (372 bp)",
+  "why": "The high-yield spread widened to 377 bp on 25 Nov from 323 bp on 13 Nov, so the AI sell-off has reached broad credit, though spreads are still far from crisis levels and Friday’s rally is not yet in the data. IMF: US bank loans to non-bank lenders rose 18% in 2026.",
+  "status": "Widening (377 bp)",
   "state": "Watch"
  },
  {
   "signal": "Market breadth",
-  "why": "Wednesday split the market again: the Nasdaq fell about 0.6% after a 4% early drop, while the Dow rose about 0.3% after erasing a 1,100-point fall, small caps rose about 0.7% and NYSE advancers beat decliners about 2 to 1. The S&P 500 slipped only about 0.25%. Money is rotating out of tech, not leaving the market.",
-  "status": "Tech down, rest up",
-  "state": "Watch"
+  "why": "Friday’s rally was broad: the S&P 500 rose 1.6% (+5.6% for the week), the Dow 1.2%, and small caps about 6.5% for the week. The equal-weight S&P 500 fund rose 1.2% on Friday, a little behind the cap-weighted index, as tech led. Systematic funds sold about US$70bn of global shares last week and Goldman’s desk says they may sell more.",
+  "status": "Broad rebound",
+  "state": "Calm"
  }
 ]

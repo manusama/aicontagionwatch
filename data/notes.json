@@ -1,7 +1,7 @@
 [
  {
   "id": "takeaway",
-  "text": "A quiet holiday break: US markets were shut for Thanksgiving, and Asian and European shares rebounded (ASX 200 +0.8%), but two warning lights brightened. S&P Global warned it could cut Nvidia’s credit rating, and US junk-bond spreads have widened about 50 bp in under two weeks to 372 bp. In Australia, business investment jumped 12.2% in the September quarter on data-centre equipment, tying the economy more closely to the AI cycle. Next: Wall Street’s half-day session closes at 5am Saturday 28 November Melbourne time; the RBA decides at 2:30pm Tuesday 8 December and the Fed at 6am Thursday 10 December."
+  "text": "Relief week: in Friday’s half-day session the S&P 500 rose 1.6% and the Nasdaq 2.3%, capping their best week since April 2025 and April 2026, with chips up 4.7% and the VIX back below 24. The strains underneath have not gone: Nvidia lagged, Oracle and CoreWeave default protection is still near records, and junk-bond spreads widened to 377 bp. Next: the Monday US close at 8am Tuesday 1 December Melbourne time, Australian national accounts at 11:30am Wednesday 2 December, US jobs data at 12:30am Saturday 5 December, the RBA at 2:30pm Tuesday 8 December and the Fed at 6am Thursday 10 December."
  },
  {
   "id": "imf",
@@ -17,6 +17,6 @@
  },
  {
   "id": "disclaimer",
-  "text": "Research snapshot as at 27 Nov 2026 Melbourne time (market data to the US close on Wed 25 Nov; US markets closed Thu 26 Nov for Thanksgiving), built from public sources. Claude is made by Anthropic, which appears in this data. I’m not a licensed financial adviser and this isn’t a recommendation to buy or sell anything. It’s a framework for your own decisions or a conversation with an adviser."
+  "text": "Research snapshot as at 28 Nov 2026 Melbourne time (market data to the US close on Fri 27 Nov, a half-day session), built from public sources. Claude is made by Anthropic, which appears in this data. I’m not a licensed financial adviser and this isn’t a recommendation to buy or sell anything. It’s a framework for your own decisions or a conversation with an adviser."
  }
 ]

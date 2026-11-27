@@ -3,67 +3,67 @@
   "id": "spx",
   "group": "Equities",
   "label": "S&P 500",
-  "display": "~7,183",
-  "value": 7182.88,
-  "change": "About −0.25% on Wed 25 Nov after a wild day: the index fell as much as 2.7% early as hot inflation data and AI fears hit tech, then recovered most of it. The Dow rose about 0.3% to around 50,186 after erasing a 1,100-point drop, small caps rose about 0.7%, and NYSE advancers outnumbered decliners about 2 to 1 late in the day. The index is about 6% below its 6 Oct record",
-  "status": "Stress",
-  "asof": "Close 25 Nov 2026",
-  "source": "Reuters via MarketScreener 25 Nov (incl. late-session breadth); Zhitong via Longbridge 25 Nov; CNBC 25 Nov"
+  "display": "~7,297",
+  "value": 7297.49,
+  "change": "+1.6% on Fri 27 Nov in a Black Friday half-day session, capping a +5.6% week, its biggest weekly gain since April 2025. Rally was broad: Dow +1.2% to 50,775 (+5.5% for the week), Russell 2000 small caps about 2,750 (+6.5% for the week), equal-weight S&P 500 fund +1.2% vs +1.6% for the cap-weighted one. Still about 4–5% below the 6 Oct record",
+  "status": "Watch",
+  "asof": "Close 27 Nov 2026",
+  "source": "BigGo Finance 27 Nov (closes); The Glass Desk weekly review 27 Nov (Russell 2000, equal-weight)"
  },
  {
   "id": "ndx",
   "group": "Equities",
   "label": "Nasdaq Composite",
-  "display": "~23,586",
-  "value": 23586.4,
-  "change": "About −0.6% on Wed 25 Nov, after falling more than 4% early. The Nasdaq-100 briefly sat 20% below its record (bear-market territory) before paring losses. Level estimated from the reported % move",
-  "status": "Stress",
-  "asof": "Close 25 Nov 2026",
-  "source": "Zhitong via Longbridge 25 Nov; Reuters via MarketScreener 25 Nov; Yahoo Finance live 25 Nov"
+  "display": "~24,130",
+  "value": 24129.5,
+  "change": "+2.3% on Fri 27 Nov, and +6.7% for the week, after the Nasdaq-100 briefly hit bear-market territory on Wed 25 Nov. Nasdaq-100 +2.6% to 26,726",
+  "status": "Watch",
+  "asof": "Close 27 Nov 2026",
+  "source": "BigGo Finance 27 Nov; The Glass Desk weekly review 27 Nov"
  },
  {
   "id": "sox",
   "group": "Equities",
   "label": "Semiconductor index (SOX)",
-  "display": "9,643",
-  "value": 9642.88,
-  "change": "No official index close found since 17 Nov. Chip stocks fell again on Wed 25 Nov: the chip index was down more than 6% at one point (Yahoo Finance live) before recovering much of it (Reuters had it down about 1.3% late). Micron about −7% intraday, Lam Research −6.5%, Applied Materials −4.4%, SanDisk −6%",
-  "status": "Stress",
-  "asof": "Close 17 Nov 2026",
-  "source": "Nexus morning note 18 Nov; Yahoo Finance live 25 Nov; Reuters via MarketScreener 25 Nov; 24/7 Wall St 25 Nov"
+  "display": "9,187",
+  "value": 9186.71,
+  "change": "+4.7% on Fri 27 Nov from 8,775 on Wed 25 Nov, as chips led the rebound: Micron +7.6%, Broadcom +3.8%, TSMC ADR +3.2%, SanDisk about +16%. Still below its 17 Nov level of 9,643. Chip fund SMH +10% for the week",
+  "status": "Watch",
+  "asof": "Close 27 Nov 2026",
+  "source": "BigGo Finance 27 Nov; The Glass Desk weekly review 27 Nov"
  },
  {
   "id": "nvda",
   "group": "Equities",
   "label": "Nvidia after Huang’s return",
-  "display": "US$149.30",
-  "value": 149.3,
-  "change": "About −3.9% on Wed 25 Nov (down as much as 8% early), a second day of losses after Monday’s 31% jump on Jensen Huang’s return as CEO. It is about 30% below a month ago. The board’s investigation and a congressional probe continue, and Reuters has reported SEC staff are examining possible accounting issues (no finding of wrongdoing). On Wed 25 Nov S&P Global Ratings warned it could downgrade Nvidia’s credit rating over management and governance concerns, after Moody’s cut its outlook to stable on 18 Nov",
+  "display": "US$150.49",
+  "value": 150.49,
+  "change": "+0.8% on Fri 27 Nov, its first gain in three sessions, lagging the chip rebound. Still about 30% below a month ago. Jensen Huang was reinstated as CEO on 23 Nov; the board investigation and a congressional probe continue, and Reuters has reported SEC staff are examining possible accounting issues (no finding of wrongdoing). S&P Global Ratings has put Nvidia’s AA rating on watch for a possible downgrade within 90 days over governance; Moody’s cut its outlook to stable on 18 Nov",
   "status": "Stress",
-  "asof": "Close 25 Nov 2026",
-  "source": "MarketAlleys closing tape 25 Nov; Zhitong via Longbridge 25 Nov; Yahoo Finance live 25 Nov; 24/7 Wall St 25 Nov; AP via BNN Bloomberg 26 Nov (S&P Global warning)"
+  "asof": "Close 27 Nov 2026",
+  "source": "BigGo Finance 27 Nov; The Glass Desk weekly review 27 Nov; AP via BNN Bloomberg 26 Nov (S&P Global warning)"
  },
  {
   "id": "amd",
   "group": "Equities",
   "label": "AMD after Nvidia’s CEO exit",
-  "display": "US$424.39",
-  "value": 424.39,
-  "change": "Fell again on Wed 25 Nov in the chip sell-off (around US$380 intraday; no confirmed close found), after about −9% intraday on Tue 24 Nov. Last confirmed close US$424.39 on Fri 20 Nov, after the Hunterbrook allegation about firmware reaching a blacklisted Chinese server maker (AMD denies wrongdoing)",
+  "display": "US$424.54",
+  "value": 424.54,
+  "change": "+4.6% on Fri 27 Nov in the chip rebound (one source), after falls on 24–25 Nov. The Hunterbrook allegation about firmware reaching a blacklisted Chinese server maker is still unresolved (AMD denies wrongdoing)",
   "status": "Stress",
-  "asof": "Close 20 Nov 2026",
-  "source": "JournalArta 25 Nov; BigGo Finance 24 Nov; Yahoo Finance live 20 Nov"
+  "asof": "Close 27 Nov 2026",
+  "source": "BigGo Finance 27 Nov; BigGo Finance 24 Nov"
  },
  {
   "id": "vix",
   "group": "Equities",
   "label": "VIX volatility index",
-  "display": "~28.0",
-  "value": 28.03,
-  "change": "Closed about 28.0 on Wed 25 Nov, up roughly 6–7% on the day (reported closes range from 27.98 to 28.29). Tuesday closed about 26.4. US markets were shut Thursday for Thanksgiving",
-  "status": "Stress",
-  "asof": "Close 25 Nov 2026",
-  "source": "The Close (Weekend Spread) 25 Nov; Vista Partners 25 Nov; Portfolio Terminal 25 Nov"
+  "display": "~23.8",
+  "value": 23.81,
+  "change": "Fell about 11% to 23.8 on Fri 27 Nov, down about a third over the week from its spike. Still above its long-run average of about 20",
+  "status": "Watch",
+  "asof": "Close 27 Nov 2026",
+  "source": "BigGo Finance 27 Nov; The Glass Desk weekly review 27 Nov"
  },
  {
   "id": "crwv",
@@ -71,10 +71,10 @@
   "label": "CoreWeave 5-yr default protection",
   "display": "~1,233 bp",
   "value": 1232.6,
-  "change": "No dated default-swap figure since Fri 20 Nov (1,233 bp intraday high). A 25 Nov Disruption Banking report put CoreWeave protection at 1,314 bp, a record, but gave no date for the reading, so the clock still uses 20 Nov. Shares fell about 3% intraday on Wed 25 Nov after −11.9% on Tuesday. AI-debt ETFs that would bet against CoreWeave, Oracle and Meta credit have been filed with the SEC",
+  "change": "No dated default-swap figure since Fri 20 Nov (1,233 bp intraday high). A 25 Nov Disruption Banking report put CoreWeave protection at 1,314 bp, a record, but gave no date, so the clock still uses 20 Nov. Shares rose about 12% over the week (+22% on Monday) to around US$43–44, after −11.9% on Tue 24 Nov. AI-debt ETFs that would bet against CoreWeave, Oracle and Meta credit have been filed with the SEC",
   "status": "Stress",
   "asof": "20 Nov 2026",
-  "source": "Le Private Banker 20 Nov (default swap data); Disruption Banking 25 Nov; ABC News (US) 25 Nov"
+  "source": "Le Private Banker 20 Nov (default swap data); Disruption Banking 25 Nov; The Glass Desk weekly review 27 Nov"
  },
  {
   "id": "orcl",
@@ -82,10 +82,10 @@
   "label": "Oracle 5-yr default protection",
   "display": "~328 bp",
   "value": 328,
-  "change": "No dated default-swap figure since Fri 20 Nov (about 328 bp, above this watch’s 300 bp bursting level). A 25 Nov Disruption Banking report cited a record 356 bp and SoftBank at 501 bp, without a date for the readings. Oracle shares fell 4.8% to US$104.28 on Wed 25 Nov. Rated BBB-; no rating change reported",
+  "change": "No dated default-swap figure since Fri 20 Nov (about 328 bp, above this watch’s 300 bp bursting level). A 25 Nov Disruption Banking report cited a record 356 bp and SoftBank at 501 bp, without a date. Oracle shares rose about 5% over the week despite a 4.8% fall on Wed 25 Nov. Rated BBB-; no rating change reported",
   "status": "Stress",
   "asof": "20 Nov 2026",
-  "source": "Le Private Banker 20 Nov (default swap data); Disruption Banking 25 Nov; 24/7 Wall St closing movers 25 Nov"
+  "source": "Le Private Banker 20 Nov (default swap data); Disruption Banking 25 Nov; The Glass Desk weekly review 27 Nov"
  },
  {
   "id": "googl",
@@ -124,12 +124,12 @@
   "id": "hyoas",
   "group": "Credit",
   "label": "US high-yield bond spread",
-  "display": "372 bp",
-  "value": 372,
-  "change": "372 bp on Tue 24 Nov, up from 347 bp on 18 Nov and 323 bp on 13 Nov: junk-bond spreads have widened about 50 bp in under two weeks as the AI sell-off spread into credit. Still well below crisis levels",
+  "display": "377 bp",
+  "value": 377,
+  "change": "377 bp on Wed 25 Nov, from 372 bp on 24 Nov and 323 bp on 13 Nov: junk-bond spreads have widened about 55 bp in under two weeks. The Friday stock rally has not yet shown up in this series. Still well below crisis levels",
   "status": "Watch",
-  "asof": "24 Nov 2026",
-  "source": "ICE BofA US High Yield OAS via FRED (updated 25 Nov)"
+  "asof": "25 Nov 2026",
+  "source": "ICE BofA US High Yield OAS via FRED, cited by The Glass Desk 27 Nov"
  },
  {
   "id": "capex",
@@ -146,12 +146,12 @@
   "id": "ust10",
   "group": "Macro",
   "label": "US 10-yr Treasury yield",
-  "display": "~4.85%",
-  "value": 4.85,
-  "change": "Closed about 4.81–4.85% on Wed 25 Nov depending on source, down roughly 6–9 bp, as investors bought bonds for safety despite hot inflation data. 2-yr about 4.59% (−8 bp), 30-yr about 5.24% late session. Bond market shut Thursday for Thanksgiving, early close Friday",
+  "display": "~4.90%",
+  "value": 4.9,
+  "change": "About 4.90% on Fri 27 Nov in a shortened session, up about 3–5 bp as money moved back into stocks. 2-yr about 4.66%, 30-yr about 5.29% (intraday). Official closing yields were not yet published",
   "status": "Stress",
-  "asof": "Close 25 Nov 2026",
-  "source": "Vista Partners 25 Nov (4.848%); The Close (Weekend Spread) 25 Nov (4.81%, 2-yr); Wallstreetcn via Longbridge 25 Nov (30-yr)"
+  "asof": "27 Nov 2026 (early close, intraday)",
+  "source": "BigGo Finance 27 Nov (4.904%); Eurasia Business News 27 Nov (2-yr, 30-yr, intraday)"
  },
  {
   "id": "fed",
@@ -159,21 +159,21 @@
   "label": "US Fed funds rate",
   "display": "3.75–4.00%",
   "value": 4,
-  "change": "A 25 bp hike on 9 Dec is about 98% priced (25 Nov) after October PCE inflation rose to 3.8% a year (core 3.3%, above the 3.2% expected) and Q3 GDP growth was revised up to 4.3%. Markets expect another hike in early 2027. The decision lands at 6am Thursday 10 Dec Melbourne time",
+  "change": "A 25 bp hike on 9 Dec is about 97–99% priced after October PCE inflation rose to 3.8% a year (core 3.3%) and Q3 growth was revised up to 4.3%. Markets expect another hike in January or early 2027. US November jobs data land at 12:30am Saturday 5 Dec Melbourne time; the Fed decision at 6am Thursday 10 Dec",
   "status": "Stress",
-  "asof": "25 Nov 2026",
-  "source": "Yahoo Finance live 25 Nov (CME FedWatch); Reuters via MarketScreener 25 Nov; JournalArta 25 Nov"
+  "asof": "27 Nov 2026",
+  "source": "CME FedWatch 26 Nov via Quackonomist (97.4%); Mitrade via FinanceFeeds 27 Nov (99.4%); BigGo Finance 27 Nov"
  },
  {
   "id": "oil",
   "group": "Macro",
   "label": "Oil (WTI crude)",
-  "display": "~US$84.5",
-  "value": 84.51,
-  "change": "Up about 1% to around US$84.5 on Thu 26 Nov in thin holiday trade, after closing around US$84.1 on Wed 25 Nov (January futures, +2.5%). Brent about US$91.1 on Thursday",
+  "display": "~US$83.1",
+  "value": 83.08,
+  "change": "WTI settled at US$83.08 on Fri 27 Nov (−0.7% from Wednesday, −0.9% for the week). Brent fell 1.2% to US$95.44 but rose about 3% for the week, its first weekly gain in November, on attacks on tankers and Saudi facilities. OPEC+ is expected to hold output at Sunday’s meeting",
   "status": "Watch",
-  "asof": "Intraday 26 Nov 2026",
-  "source": "AP via BNN Bloomberg 26 Nov; Vista Partners 25 Nov"
+  "asof": "Settle 27 Nov 2026",
+  "source": "Reuters via AOL 27 Nov; Political.org 27 Nov"
  },
  {
   "id": "cpi",
@@ -190,12 +190,12 @@
   "id": "gold",
   "group": "Havens",
   "label": "Gold",
-  "display": "~US$3,598/oz",
-  "value": 3598.0,
-  "change": "Spot gold up about 0.5% to around US$3,598 on Thu 26 Nov afternoon Melbourne time, as Asian and European shares rebounded. Wednesday readings varied (about US$3,540–3,600 futures). Gold has held up while chip stocks fell, so no forced-selling signal yet",
+  "display": "~US$3,675/oz",
+  "value": 3674.5,
+  "change": "Gold futures rose about 3.9% to around US$3,675 on Fri 27 Nov (+4.5% for the week), rebounding from a 15-month low; silver jumped about 6%. Metals rose with stocks, so no forced-selling signal",
   "status": "Watch",
-  "asof": "26 Nov 2026 (4:20pm AEDT)",
-  "source": "ABC News business live 26 Nov; Vista Partners 25 Nov; The Close (Weekend Spread) 25 Nov"
+  "asof": "27 Nov 2026 (US session)",
+  "source": "The Glass Desk weekly review 27 Nov (Yahoo front-month); FinanceFeeds 27 Nov; Eurasia Business News 27 Nov"
  },
  {
   "id": "copper",
